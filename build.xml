@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="IGOR" default="" basedir=".">
+	<!-- project description-->
+	<description>
+		<![CDATA[
+Crea un zip con el contenido base de la aplicacion.
+]]>
+	</description>
+	<property name="libsDir" value="lib" />
+	<property name="publicDir" value="web/content" />
+	<property name="databaseDir" value="install/database" />
+	<property name="destDir" value="install/installer" />
+	<tstamp>
+		<format property="NOW_MX" pattern="yyyymmddhhmm" locale="es,MX" />
+	</tstamp>
+	<script language=""></script>
+	<property name="zipLibs" value="libs.zip" />
+	<property name="zipPublic" value="public.zip" />
+	<property name="zipDatabase" value="databases.zip" />
+	<exec excecutable="cmd">
+		<arg value="/c"/>
+		<arg value="install\database\bin\generateSQLiteFiles.bat"/>
+		<arg value="-p"/>
+	</exec>
+	<!-- zip up the files and save-->
+	<zip destfile="${destDir}/${zipLibs}" basedir="${libsDir}" update="true"
+		excludes="*example*,*amfphp/browser*,*amfphp/ServiceBrowser*,*amfphp/services*,*docs*,*test*,*Makefile*,*omitir*" />
+	<echo level="info" message="File ${zipLibs} saved" />
+	<!-- zip up the files and save-->
+	<zip destfile="${destDir}/${zipPublic}" basedir="${publicDir}" update="true" />
+	<echo level="info" message="File ${zipPublic} saved" />
+	<!-- zip up the files and save-->
+	<zip destfile="${destDir}/${zipDatabase}" basedir="${databaseDir}" update="true"
+		excludes="*bin*"/>
+	<echo level="info" message="File ${zipDatabase} saved" />
+</project>

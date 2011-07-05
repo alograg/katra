@@ -39,7 +39,7 @@ require_once '../../lib/php/mekayotl/core.php';
  */
 $GLOBALS['config'] = parse_ini_string(<<<EOF
 [Application]
-implement = "Waakun"
+implement = "cms"
 
 [Database]
 driver = "mysql"
@@ -56,9 +56,9 @@ style = "main"
 EOF
 , true);
 
-//core\Mekayotl::trace($GLOBALS['config']);
+//core\Katra::trace($GLOBALS['config']);
 
-//core\Mekayotl::trace(new core\tools\Mailer());
+//core\Katra::trace(new core\tools\Mailer());
 
 /*$rs = new core\database\sqlite\Adapter(array('dbname' => 'general'));
 $tmps = $rs->pdo;
@@ -72,11 +72,11 @@ $tmp = $tmps->query("CREATE TABLE countries (
 );");
 $tmp = $tmps->query(utf8_encode("INSERT INTO countries VALUES ('MX','México','Español','iso-8859-1','1','es-mx');"));
 $stmt = $rs->setFetchMode(4)->select('*', 'countries');
-core\Mekayotl::trace($rs->fetchAll($stmt));*/
+core\Katra::trace($rs->fetchAll($stmt));*/
 
 $tmp = new core\tools\CountryData('mx');
-core\Mekayotl::trace($tmp);
+core\Katra::trace($tmp);
 
 
 
-core\Mekayotl::printTrace();
+core\Katra::printTrace();
