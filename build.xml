@@ -13,24 +13,38 @@ Crea un zip con el contenido base de la aplicacion.
 	<tstamp>
 		<format property="NOW_MX" pattern="yyyymmddhhmm" locale="es,MX" />
 	</tstamp>
-	<script language=""></script>
+	<!--script language=""></script-->
 	<property name="zipLibs" value="libs.zip" />
 	<property name="zipPublic" value="public.zip" />
 	<property name="zipDatabase" value="databases.zip" />
-	<exec excecutable="cmd">
+	<exec executable="cmd">
 		<arg value="/c"/>
 		<arg value="install\database\bin\generateSQLiteFiles.bat"/>
 		<arg value="-p"/>
 	</exec>
 	<!-- zip up the files and save-->
-	<zip destfile="${destDir}/${zipLibs}" basedir="${libsDir}" update="true"
-		excludes="*example*,*amfphp/browser*,*amfphp/ServiceBrowser*,*amfphp/services*,*docs*,*test*,*Makefile*,*omitir*" />
+	<zip destfile="${destDir}/parts/${zipLibs}" basedir="${libsDir}"
+		excludes="**/*examples/**,
+			**/browser/**,
+			**/ServiceBrowser/**,
+			**/services/**,
+			**/omitir/**,
+			**/docs/**,
+			**/phpdoc/**,
+			**/test/**,
+			**/Makefile,
+			**/Makefile" />
 	<echo level="info" message="File ${zipLibs} saved" />
 	<!-- zip up the files and save-->
-	<zip destfile="${destDir}/${zipPublic}" basedir="${publicDir}" update="true" />
+	<zip destfile="${destDir}/parts/${zipPublic}" basedir="${publicDir}" />
 	<echo level="info" message="File ${zipPublic} saved" />
 	<!-- zip up the files and save-->
-	<zip destfile="${destDir}/${zipDatabase}" basedir="${databaseDir}" update="true"
-		excludes="*bin*"/>
+	<zip destfile="${destDir}/parts/${zipDatabase}" basedir="${databaseDir}"
+		excludes="**/bin/**"/>
 	<echo level="info" message="File ${zipDatabase} saved" />
+	<zip destfile="${destDir}/katraInstall.zip">
+		<zipfileset src="${destDir}/parts/${zipPublic}" prefix="public"/>
+		<zipfileset src="${destDir}/parts/${zipLibs}" prefix="lib"/>
+		<zipfileset src="${destDir}/parts/${zipDatabase}" prefix="database"/>
+	</zip>
 </project>
