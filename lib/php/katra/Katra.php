@@ -59,7 +59,7 @@ class Katra {
 	 * @param	mixed	$v	Variable a agregar para rastrear
 	 */
 	public static function trace($v){
-		if(Katra_DEBUG){
+		if(KATRA_DEBUG){
 			self::$_debug[] = $v;
 			if(class_exists('NetDebug', false))
 				NetDebug::trace($v);
@@ -69,7 +69,7 @@ class Katra {
 	 * Da salida a las variables agregadas al rastreo
 	 */
 	public static function printTrace(){
-		if(Katra_DEBUG)
+		if(KATRA_DEBUG)
 			var_dump(self::$_debug);
 	}
 	/**
@@ -79,7 +79,7 @@ class Katra {
 	 * @param	string	$trackFormat	Formato de rastreo. Default: Ymd
 	 */
 	public static function addToLogFile($file = 'log', $line = 'None', $trackFormat = "Ymd"){
-		if(Katra_DEBUG){
+		if(KATRA_DEBUG){
 			self::generatePath(LOGS_PATH);
 			if(is_dir(LOGS_PATH)){
 				$filePath = LOGS_PATH . $file . '.' . date($trackFormat) . '.log';

@@ -40,7 +40,7 @@ class Adapter extends \core\database\SQLAbstract {
 	 * @uses	SQLAbstract::$pdo	Lo utiliza para generar el PDO [@link http://mx.php.net/manual/es/pdo.construct.php]
 	 */
 	protected function getDNS(){
-		$return = Katra_PATH
+		$return = KATRA_PATH
 				. '/database/sqlite/data/'
 				. $this->dbname
 				. '.sq2';
@@ -87,7 +87,7 @@ class Adapter extends \core\database\SQLAbstract {
 	 * @uses	SQLAbstrac::batchUpdate()	Lo utiliza para ejecutar el SQL que genera
 	 */
 	protected function doQuery($SQL){
-		if(Katra_DEBUG)
+		if(KATRA_DEBUG)
 			\core\Katra::startTimer();
 		$this->query = $SQL;
 		$return = null;
@@ -103,7 +103,7 @@ class Adapter extends \core\database\SQLAbstract {
 			$return = $rs->errorCode() . ': ' . $errorMsg[0] . ': ' . $SQL;
 		}else
 			$return = $rs;
-		if(Katra_DEBUG){
+		if(KATRA_DEBUG){
 			$time = \core\Katra::stopTimer();
 			$logQuery = '- [' . get_class($this) . '] - time: ' . $time
 							. "s -\r\n" . $SQL . "\r\n"

@@ -31,7 +31,7 @@ class Mailer extends \PHPMailer {
 		$this->Host = $config['email']['server'];
 		$this->Hostname = $config['email']['server'];
 		$this->SMTPAuth = false;
-		$this->SMTPDebug= Katra_DEBUG;
+		$this->SMTPDebug= KATRA_DEBUG;
 		//$this->Port= 465;
 		$this->Timeout= 60;
 		$this->Username = $config['email']['user'];

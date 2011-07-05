@@ -122,7 +122,12 @@ class Image {
 					if(!is_array($this->dinamics[$dinamic])){
 						$val=str_replace('#','',$this->dinamics[$dinamic]);
 						$val=str_split($val,2);
-						$this->dinamics[$dinamic]=array('R'=>hexdec($val[0]),'G'=>hexdec($val[1]),'B'=>hexdec($val[2]),'A'=>intval(hexdec($val[3])/2));
+						$this->dinamics[$dinamic]=array(
+							'R'=>hexdec($val[0]),
+							'G'=>hexdec($val[1]),
+							'B'=>hexdec($val[2]),
+							'A'=>intval(hexdec($val[3])/2)
+						);
 					}
 					break;
 			}
@@ -317,11 +322,20 @@ class Image {
 				//imagefill($this->rsOutput,0,0,IMG_COLOR_TRANSPARENT);
 				imagecolortransparent($img,imagecolorat($img,0,0));
 				if(function_exists('imagefilter'))
-					imagefilter($img,IMG_FILTER_COLORIZE,$this->bgColor['R'],$this->bgColor['G'],$this->bgColor['B'],$this->bgColor['A']);
+					imagefilter($img,
+						IMG_FILTER_COLORIZE,
+						$this->bgColor['R'],
+						$this->bgColor['G'],
+						$this->bgColor['B'],
+						$this->bgColor['A']);
 				break;
 			case 'color':
 			default:
-				imagefill($img,0,0,imagecolorallocate($img,$this->bgColor['R'],$this->bgColor['G'],$this->bgColor['B']));
+				imagefill($img,0,0,imagecolorallocate($img,
+					$this->bgColor['R'],
+					$this->bgColor['G'],
+					$this->bgColor['B'])
+				);
 		}
 		return $this;
 	}
