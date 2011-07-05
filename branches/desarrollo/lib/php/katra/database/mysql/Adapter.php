@@ -77,7 +77,7 @@ class Adapter extends \core\database\SQLAbstract {
 	 * @uses	SQLAbstrac::query()	Lo utiliza para ejecutar el SQL
 	 */
 	protected function doQuery($SQL){
-		if(Katra_DEBUG)
+		if(KATRA_DEBUG)
 			\core\Katra::startTimer();
 		$this->query = $SQL;
 		$return = null;
@@ -92,7 +92,7 @@ class Adapter extends \core\database\SQLAbstract {
 				$return = $this->getAfectedRows($rs); // Regreza la informacion de la ultima consulta
 		}
 		$return = $this->getError($rs, $return);
-		if(Katra_DEBUG){
+		if(KATRA_DEBUG){
 			$time = \core\Katra::stopTimer();
 			$logQuery = '- [' . get_class($this) . '] - time: ' . $time
 							. "s -\r\n" . $SQL . "\r\n"
