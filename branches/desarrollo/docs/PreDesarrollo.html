@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Waakun 3</title>
+</head>
+<body>
+<h1>Waakun 3</h1>
+<h2>Estructura de directorios</h2>
+<ul>
+	<li>
+		<p><strong>/</strong></p>
+		<ul>
+			<li>
+				<p><strong>docs:</strong> Documentacion del desarrollo</p>
+				<ul>
+					<li><strong>PHP:</strong> Documentacion de PHP</li>
+					<li><strong>MySQL:</strong> Documentacion de Base de Datos</li>
+					<li><strong>JS:</strong> Documentacion de JavaScript</li>
+					<li><strong>CSS:</strong> Documentacion de Cascading Style Sheets</li>
+					<li><strong>APIs:</strong> Documentacion de Interfaz de Programación de Aplicaciones</li>
+				</ul>
+			</li>
+			<li>
+				<p><strong>lib:</strong> Contiene las librerias de PHP</p>
+				<ul>
+					<li>
+						<p><strong>js:</strong> Contiene librerias de JavaScript que se utilizan generalmente</p>
+					</li>
+					<li>
+						<p><strong>css:</strong> Contiene librerias de CSS que se utilizan generalmente</p>
+					</li>
+					<li>
+						<p><strong>php:</strong> Apartado para los archivos de PHP</p>
+						<ul>
+							<li>
+								<p><strong>externals:</strong> Contiele las librerias externas</p>
+								<ul>
+									<li>AMFPHP</li>
+									<li>htmlparser</li>
+									<li>PHPMailer</li>
+									<li>reCaptcha</li>
+									<li>Smarty</li>
+									<li>Twitter</li>
+								</ul>
+							</li>
+							<li>
+								<p><strong>mekayotl:</strong> El framework de nuestros proyectos</p>
+								<ul>
+									<li>
+										<p><strong>database:</strong> Contenedor de los adaptadores a base de datos, abstracts e interface</p>
+										<ul>
+											<li><strong>mysql:</strong> Contiene los adaptadores para mysql</li>
+											<li><strong>sqlite:</strong> Contiene los adaptadores para sqlite</li>
+										</ul>
+									</li>
+									<li>
+										<p><strong>tools:</strong> Contiene clases utilitarias</p>
+										<ul>
+											<li>
+												<p><strong>transfer:</strong> Utilerias para hacer transferencias de versiones anteriores a la actual</p>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<p><strong>waakun:</strong> Ubicacion de la aplicacion Waakun 3</p>
+										<ul>
+											<li>
+												<p><strong>dal:</strong> Contenedor de los objetos de acceso a datos</p>
+												<ul>
+													<li>
+														<p><strong>access:</strong> Objetos de acceso a tablas</p>
+													</li>
+													<li>
+														<p><strong>bussines:</strong> Objetos de logica de datos</p>
+													</li>
+													<li>
+														<p><strong>value:</strong> Objetos de valor de datos</p>
+													</li>
+												</ul>
+											</li>
+											<li>
+												<p><strong>modules:</strong> Contiene los modulos que maneja Waakun 3</p>
+											</li>
+											<li>
+												<p><strong>smarty:</strong> Contiene los plugins degenerados de Waakun 3 para smarty</p>
+											</li>
+											<li>
+												<p><strong>aplications:</strong> Contiene look&amp;feel, interacciones y servicios web base de la implementacion
+												<br />
+												Ej: Waakun, Holbes, Quimera, etc.
+												<br />
+												Tomando en cuenta que la implementacion base de llama Waakun, el resto de las implementaciones podran heredar archivos de esta
+												<br />
+												Pot cada implementacion consiste en una carpeta con esta estructura:</p>
+												<ul>
+													<li>
+														<p><strong>js:</strong> Contiene los archivos de JavaScript especificos de la implementacion</p>
+													</li>
+													<li>
+														<p><strong>languages:</strong> Contiene los archivos de lenguajes con los textos de la implementacion</p>
+													</li>
+													<li>
+														<p><strong>style:</strong> Contiene los archivos del deise&ntilde;o</p>
+														<ul>
+															<li>
+																<p><strong>extras:</strong> Archivos de CSS para custiones especiales (IE,print,mobile)</p>
+															</li>
+															<li>
+																<p><strong>img:</strong> Contiene los archivos de imagenes utilizadas en el dise&ntilde;o</p>
+															</li>
+														</ul>
+													</li>
+													<li>
+														<p><strong>templates:</strong> Contiene directorios para cada formato de archivo solicitado</p>
+														<ul>
+															<li>
+																<p><strong>boletin:</strong> Distribucion html de para boletines</p>
+															</li>
+															<li>
+																<p><strong>html:</strong> Distribucion html de para navegadores</p>
+															</li>
+															<li>
+																<p><strong>rss:</strong> Distribucion html de para lectores de RSS</p>
+															</li>
+														</ul>
+													</li>
+													<li>
+														<p><strong>ws:</strong> Contiene archivos que suministran servicios especiales de la implementacion</p>
+													</li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<p><strong>web:</strong> Apartado para el contenido web</p>
+				<ul>
+					<li>
+						<p><strong>content:</strong> Carpeta de acceso publico, base del sitio</p>
+						<ul>
+							<li>
+								<p><strong>medias:</strong> Contenedora de archivos cargados</p>
+								<ul>
+									<li>
+										<p><strong>audios:</strong> Contiene solo archivos de audio (mp3,wav,aiff)</p>
+									</li>
+									<li>
+										<p><strong>banners:</strong> Coniene solo archivos que son utilizados como banners (jpg,png,gif,swf)</p>
+									</li>
+									<li>
+										<p><strong>docs:</strong> Coniene solo documentos (pdf,doc,xls,xml,ppt,txt,xslt,html)</p>
+									</li>
+									<li>
+										<p><strong>files:</strong> Coniene solo archivos que no estan categorisados (zip,bin,tar,rar,*)</p>
+									</li>
+									<li>
+										<p><strong>images:</strong> Coniene solo archivos de imagen (jpg,gif,png)</p>
+										<ul>
+											<li>
+												<p><strong>m:</strong> Contiene imagenes manipuladas del directorio padre</p>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<p><strong>videos:</strong> Coniene solo archivos de video (flv,3gp,avi,mov,wmv,mp4,f4v)</p>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<p><strong>models:</strong> Contiene look&amp;feel, interacciones y servicios web exlusivos
+								<br />
+								Pot cada modelo consiste en una carpeta con esta estructura:</p>
+								<ul>
+									<li>
+										<p><strong>js:</strong> Contiene los archivos de JavaScript especificos del modelo</p>
+									</li>
+									<li>
+										<p><strong>languages:</strong> Contiene los archivos de lenguajes con los textos del modelo</p>
+									</li>
+									<li>
+										<p><strong>style:</strong> Contiene los archivos del deise&ntilde;o</p>
+										<ul>
+											<li>
+												<p><strong>extras:</strong> Archivos de CSS para custiones especiales (IE,print,mobile)</p>
+											</li>
+											<li>
+												<p><strong>img:</strong> Contiene los archivos de imagenes utilizadas en el dise&ntilde;o</p>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<p><strong>templates:</strong> Contiene directorios para cada formato de archivo solicitado</p>
+										<ul>
+											<li>
+												<p><strong>boletin:</strong> Distribucion html de para boletines</p>
+											</li>
+											<li>
+												<p><strong>html:</strong> Distribucion html de para navegadores</p>
+											</li>
+											<li>
+												<p><strong>rss:</strong> Distribucion html de para lectores de RSS</p>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<p><strong>ws:</strong> Contiene archivos que suministran servicios especiales al modelo</p>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+</body>
+</html>
