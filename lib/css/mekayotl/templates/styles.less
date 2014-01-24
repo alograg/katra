@@ -1,0 +1,222 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import "vars";
+@import "reset";
+@import "fx";
+@import "microformats";
+
+/*
+    Reglas iniciales
+*/
+table
+{
+ thead
+ {
+ }
+ tfoot
+ {
+ }
+ tbody
+ {
+ }
+}
+hr
+{
+    border: .125em groove #FFF;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    clear: both;
+    margin: 1em 0;
+    padding: 0;
+    width: 100%;
+ height: .125em;
+}
+/**********************/
+
+/*
+    Reglas para fuentes
+*/
+
+html
+{
+}
+
+body
+{
+}
+
+h1
+{
+}
+
+h2
+{
+}
+
+h3
+{
+}
+
+b,
+strong
+{
+    font-weight: bolder;
+}
+
+i,
+em
+{
+    font-style: italic;
+}
+
+p
+{
+}
+
+blockquote
+{
+}
+
+/**********************/
+
+/*
+    Reglas para enlaces
+*/
+
+a
+{
+    &:link, &:visited
+    {
+    }
+    &:hover
+    {
+    }
+}
+
+/**********************/
+
+/*
+    Reglas para botones
+*/
+
+button,
+input[type="button"],
+input[type="submit"]
+{
+    cursor: pointer;
+}
+/**********************/
+
+/*
+    Reglas para listas
+*/
+ul
+{
+ li
+ {
+ }
+}
+ol
+{
+ li
+ {
+ }
+}
+dl
+{
+ dt
+ {
+ }
+ dd
+ {
+ }
+}
+/**********************/
+
+/*
+    Reglas para formularios
+*/
+
+form
+{
+}
+
+fieldset,
+input,
+label,
+select,
+textarea
+{
+    &:focus
+    {
+        outline: .067em solid @colorProduct;
+    }
+}
+
+input,
+textarea
+{
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder
+{
+}
+
+input:-moz-placeholder, textarea:-moz-placeholder
+{
+}
+
+/**********************/
+
+/*
+    Reglas para estructura principal (screen: 320px a 480px)
+*/
+html
+{
+    -webkit-overflow-scrolling: touch;
+}
+
+header
+{
+}
+
+nav
+{
+}
+
+body
+{
+}
+
+section
+{
+}
+
+article
+{
+}
+
+aside
+{
+}
+
+footer
+{
+}
+
+/*
+    Ajustes a microformats
+*/
+/**********************/
+
+/*
+    Media queries
+*/
+
+@import "queries";
+@import "2cols.less";
+@import "3cols.less";
+
+/**********************/

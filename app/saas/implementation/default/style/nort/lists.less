@@ -1,0 +1,107 @@
+/**
+ * Reglas para listas
+ *
+ * @author Hector <henry@aquainteractive.com.mx>
+ * @copyright Copyright (c) 2012, {@link http://www.aquainteractive.com Aqua
+ * Interactive}
+ * @package
+ * @since Revisión $id$ $date$
+ * @subpackage css
+ * @version $Id$
+ */
+ul {
+    li {
+    }
+}
+
+ol {
+    li {
+    }
+}
+
+dl {
+    dt {
+    }
+
+    dd {
+    }
+}
+#menuUser{
+    list-style:none;
+    float: right;
+    padding:0px 10px;
+    background-image: linear-gradient(bottom, rgb(102,102,102) 21%, rgb(145,145,145) 60%);
+    background-image: -o-linear-gradient(bottom, rgb(102,102,102) 21%, rgb(145,145,145) 60%);
+    background-image: -moz-linear-gradient(bottom, rgb(102,102,102) 21%, rgb(145,145,145) 60%);
+    background-image: -webkit-linear-gradient(bottom, rgb(102,102,102) 21%, rgb(145,145,145) 60%);
+    background-image: -ms-linear-gradient(bottom, rgb(102,102,102) 21%, rgb(145,145,145) 60%);
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.21, rgb(102,102,102)),
+        color-stop(0.6, rgb(145,145,145))
+    );
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    li{
+        float:left;
+
+        a{
+            display: block;
+            padding: 0.5em;
+            text-align: center;
+            vertical-align: middle;
+            width: 1em;
+            color: #fff;
+        }
+        .linktxt{
+            width: auto;
+        }
+    }
+}
+#myInfo span{
+    background-image: url("../img/icons.png");
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+    background-size: 80em auto;
+    display: block;
+    height: 1em;
+    line-height: 0;
+    width: 1em;
+
+}
+#menuUserLogout span{
+    background-image: url("../img/icons.png");
+    background-position: -2em 0px;
+    background-repeat: no-repeat;
+    background-size: 80em auto;
+    display: block;
+    height: 1em;
+    line-height: 0;
+    width: 1em;
+}
+footer{
+    menu{
+        list-style:none;
+        margin:5px 0px;
+        clear:both;
+        li{
+            display:block;
+            a{
+                color:#FFF;
+            }
+            menu{
+                li{
+                    display: inline-block;
+                    margin: 5px;
+                }
+            }
+        }
+    }
+}

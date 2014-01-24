@@ -1,0 +1,80 @@
+@import "vars";
+/**
+ * Reglas para formularios
+ *
+ * @author Hector <henry@aquainteractive.com.mx>
+ * @copyright Copyright (c) 2012, {@link http://www.aquainteractive.com Aqua
+ * Interactive}
+ * @package
+ * @since Revisión $id$ $date$
+ * @subpackage css
+ * @version $Id$
+ */
+form {
+}
+
+fieldset , input , label , select , textarea {
+    &:focus {
+        outline: .067em solid @colorProduct;
+    }
+}
+
+input , textarea {
+}
+
+input::-webkit-input-placeholder , textarea::-webkit-input-placeholder {
+}
+
+input:-moz-placeholder , textarea:-moz-placeholder {
+}
+
+    .login,.registration-form{
+        width:350px;
+        margin:0 auto;
+
+        label{
+            display:block;
+            margin:10px 0;
+            text-align: left;
+
+            span{
+                text-align: right;
+                width:120px;
+                display:block;
+                float:left;
+                padding: 5px 0px;
+                margin-right:15px;
+            }
+        }
+        button {
+            font-size: 14px;
+            color: #ffffff;
+            padding: 10px 20px;
+            margin-top:10px;
+            background-color: #0e8945;
+            background: -moz-linear-gradient(
+                top,
+                #3aac4b 0%,
+                #0e8945);
+            background: -webkit-gradient(
+                linear, left top, left bottom,
+                from(#3aac4b),
+                to(#0e8945));
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            border: 2px solid #0e8945;
+            -moz-box-shadow:
+                0px 1px 3px rgba(000,000,000,0.5),
+                inset 0px 0px 10px rgba(087,087,087,0.6);
+            -webkit-box-shadow:
+                0px 1px 3px rgba(000,000,000,0.5),
+                inset 0px 0px 10px rgba(087,087,087,0.6);
+            text-shadow:
+                0px -1px 0px rgba(000,000,000,0.4),
+                0px 1px 0px rgba(255,255,255,0.3);
+        }
+        .chkRemember{
+            padding-left: 50px;
+        }
+    }

@@ -1,0 +1,78 @@
+<?php
+$app = App_Saas::singleton();
+$this->setHeadStyles(array( array(
+        '@media' => "all",
+        '@href' => 'http://www.nortcloud.com/inc/style.css'
+    )));
+?>
+<header id="head">
+    <div class="sombraLinearUp"></div>
+    <a href="http://www.nortcloud.com/" class="logoNort"> <img src="/img/logo/nortHeader.png"> </a>
+    <div class="pullRight">
+        <menu id="menuActions" class="clearfix">
+            <a class="likeButton gayButton" href="http://www.nortcloud.com/dashboard/"> Acceder </a>
+            <a class="likeButton geenButton" href="http://www.nortcloud.com/registration/join.html"> Registrar </a>
+        </menu>
+        <div class="enlacesSocial">
+            <a href="https://www.facebook.com/pages/Nortcloud/387776757925505?fref=ts" title="Facebook: /Nortcloud "><img src="/img/icon/face.png" /></a>
+            <a href="https://twitter.com/Nortcloud" title="Twitter: @Nortcloud"><img src="/img/icon/twit.png" /></a>
+            <!--
+            <a href="#"><img src="img/link-icon.png" /></a>
+            <a href="#"><img src="img/log-icon.png" /></a>
+            -->
+        </div>
+    </div>
+</header>
+<div class="sombraLinearDown likeBody"></div>
+<nav class="principal clearfix likeBody">
+    <li>
+        <a href="http://www.nortcloud.com/">Nort</a>
+    </li>
+    <li>
+        <a href="http://www.nortcloud.com/#productos">Productos</a>
+    </li>
+    <!--li>
+    <a href="http://www.nortcloud.com/contacto.html">Contacto</a>
+    </li-->
+    <li>
+        <a href="http://ayuda.nortcloud.com/">Ayuda</a>
+    </li>
+</nav>
+<div class="sombraLinearUp likeBody"></div>
+<section id="secLogIn" class="likeBody content clearfix">
+    <form action="login.html" method="post" accept-charset="utf-8">
+        <div id="browserUpdate"></div>
+        <fieldset><?php
+if (isset($alert)) {
+?>
+            <p class="alerta error">
+                <strong>Error:</strong> Los datos de ingreso son
+                incorrectos.
+            </p><?php
+}
+?>
+            <label for="user">Usuario</label>
+            <input id="user" name="user" type="text" placeholder="Su usuario" required="required"<?php
+print((isset($user)) ? ' value="' . $user . '"' : '');
+            ?> />
+            </label>
+            <label for="password">Contrase&ntilde;a</label>
+            <input id="password" name="password" type="password" placeholder="Su contraseña" required="required" />
+            <br />
+            <p class="note">
+                <input type="checkbox" id="chkRemember" name="remeber" value="yes" />
+                Recordar mi inicio de sesi&oacute;n.
+            </p>
+        </fieldset>
+        <button type="submit" class="likeButton geenButton simplePullRight">Ingresar</button>
+    </form>
+</section>
+<footer class="clearfix">
+    <p class="links">
+        <a href="http://www.nortcloud.com/">Nort</a> | <a href="http://www.nortcloud.com/productos.html">Productos</a> | <a href="http://www.nortcloud.com/contacto.html">Contacto</a> | <a href="http://ayuda.nortcloud.com/">Ayuda</a>
+    </p>
+    <p>
+        <img src="/img/logo/nortFooter.png" alt="NORT" />&reg; por <a href="http://www.aquainteractive.com.mx">Aqua Interactive</a>&copy;
+        Marca Registrada, Derechos Reservados <?php echo date('Y'); ?>
+    </p>
+</footer>

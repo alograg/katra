@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project>
+<project name="IGOR" default="" basedir=".">
+    <!-- project description -->
+    <description>
+        <![CDATA[
+Procesa los archivos SQL para crear los scripts de intalacion por versión.
+Crea un zip con el contenido base de la aplicacion.
+]]>
+    </description>
+    <property name="appsDir" value="app" />
+    <property name="libsDir" value="lib" />
+    <property name="publicDir" value="web/content" />
+    <property name="databaseDir" value="install/database" />
+    <property name="destDir" value="install/installer" />
+    <tstamp>
+        <format property="NOW_MX" pattern="yyyymmddhhmm" locale="es,MX" />
+    </tstamp>
+    <property name="zipApps" value="apps.zip" />
+    <property name="zipLibs" value="libs.zip" />
+    <property name="zipPublic" value="public.zip" />
+    <property name="zipDatabase" value="databases.zip" />
+    <exec executable="cmd">
+        <arg value="/c"/>
+        <arg value="lib\shell\generateSQLiteFiles.bat"/>
+        <arg value="-p"/>
+    </exec>
+    <exec executable="cmd">
+        <arg value="/c" />
+        <arg value="lib\shell\generateMySQL.bat" />
+        <arg value="-p" />
+    </exec>
+    <!-- zip up the files and save -->
+    <zip destfile="${destDir}/parts/${zipApps}" basedir="${appsDir}"
+        excludes="**/*examples/**,**/browser/**,**/ServiceBrowser/**,**/services/**,**/omitir/**,**/docs/**,**/phpdoc/**,**/test/**,**/Makefile" />
+    <echo level="info" message="File ${zipApps} saved" />
+    <!-- zip up the files and save -->
+    <zip destfile="${destDir}/parts/${zipLibs}" basedir="${libsDir}"
+        excludes="**/*examples/**,**/browser/**,**/ServiceBrowser/**,**/services/**,**/omitir/**,**/docs/**,**/phpdoc/**,**/test/**,**/Makefile" />
+    <echo level="info" message="File ${zipLibs} saved" />
+    <!-- zip up the files and save -->
+    <zip destfile="${destDir}/parts/${zipPublic}" basedir="${publicDir}" />
+    <echo level="info" message="File ${zipPublic} saved" />
+    <!-- zip up the files and save -->
+    <zip destfile="${destDir}/parts/${zipDatabase}" basedir="${databaseDir}"
+        excludes="**/bin/**" />
+    <echo level="info" message="File ${zipDatabase} saved" />
+    <zip destfile="${destDir}/saasInstall.zip">
+        <zipfileset src="${destDir}/parts/${zipPublic}" prefix="public" />
+        <zipfileset src="${destDir}/parts/${zipApps}" prefix="app" />
+        <zipfileset src="${destDir}/parts/${zipLibs}" prefix="lib" />
+        <zipfileset src="${destDir}/parts/${zipDatabase}" prefix="database" />
+    </zip>
+</project>
