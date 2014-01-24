@@ -1,0 +1,193 @@
+<?php
+include_once (PUBLIC_PATH . '/../inc/header.php');
+$this->setTitle('NORT | Registro');
+$this->setHeadStyles(array( array(
+        '@media' => "all",
+        '@href' => '/inc/style.css'
+    )));
+$this->addHeadScripts(array(
+    '@src' => App_Saas::singleton()->getViewFilePath('mootools/1.4.5/core/compressed.js', true),
+));
+$this->addHeadScripts(array(
+    '@src' => '/inc/registration.js',
+));
+function checkBox($id, $choice){
+    if(intval($choice) < 1) {
+        $choice = 1;
+    }
+    $checkText =' checked="checked"';
+    print ($id==$choice)?$checkText:'';
+}
+ ?>
+<section id="secRegistro" class="likeBody content registro clearfix hide">
+<h2>Registro R&aacute;pido</h2>
+<div class="simplePullLeft">
+    <p id="elFloating" class="description">
+        <strong>
+            OrbertPro, lograr&aacute; un impacto positivo no s&oacute;lo en la empresa al
+            optimizar los recursos,
+        </strong>
+        <br />
+        sino tambi&eacute;n en el empleado forj&aacute;ndole una correcta administraci&oacute;n de sus
+        tareas, aumentando su proactividad empresarial.
+        <br />
+        <q>&#161;Disfruta de los m&uacute;ltiples beneficios que <b>OrbertPro</b> tiene para ti!</q>
+    </p>
+</div>
+<form id="frmRegistration" action="wait.html" autocomplete="off" enctype="application/x-www-form-urlencoded" method="post" target="_self">
+    <p id="elAlert" class="alert hide"><?php print $_SESSION['registration']['error']; ?></p>
+    <section id="elPlan">
+        <hgroup>
+            <h4>1</h4>
+            <h3>Elige el plan que deseas:</h3>
+        </hgroup>
+        <table>
+            <thead>
+                <tr>
+                    <th class="ini">Plan</th>
+                    <th>Descripci&oacute;n</th>
+                    <th>Precio</th>
+                    <th class="end"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>Plan 1*</th>
+                    <td>De 1 a 2 usuarios</td>
+                    <td>$99.00</td>
+                    <td><input type="radio" name="registration[package]" value="1"<?php
+checkBox(1, $return);
+?>/></td>
+                </tr>
+                <tr>
+                    <th>Plan 2*</th>
+                    <td>De 3 a 5 usuarios</td>
+                    <td>$199.00</td>
+                    <td><input type="radio" name="registration[package]" value="2"<?php
+checkBox(2, $return);
+?>/></td>
+                </tr>
+                <tr>
+                    <th>Plan 3*</th>
+                    <td>De 6 a 10 usuarios</td>
+                    <td>$299.00</td>
+                    <td><input type="radio" name="registration[package]" value="3"<?php
+checkBox(3, $return);
+?>/></td>
+                </tr>
+                <tr>
+                    <th>Plan 4*</th>
+                    <td>De 11 a 20 usuarios</td>
+                    <td>$575.00</td>
+                    <td><input type="radio" name="registration[package]" value="4"<?php
+checkBox(4, $return);
+?>/></td>
+                </tr>
+                <tr>
+                    <th>Plan 5*</th>
+                    <td>De 21 a 30 usuarios</td>
+                    <td>$825.00</td>
+                    <td><input type="radio" name="registration[package]" value="5"<?php
+checkBox(5, $return);
+?>/></td>
+                </tr>
+                <tr>
+                    <th>Plan 6*</th>
+                    <td>De 31 a 40 usuarios</td>
+                    <td>$1050.00</td>
+                    <td><input type="radio" name="registration[package]" value="6"<?php
+checkBox(6, $return);
+?>/></td>
+                </tr>
+                <tr>
+                    <th>Plan 7*</th>
+                    <td>De 41 a 50 usuarios</td>
+                    <td>$1250.00</td>
+                    <td><input type="radio" name="registration[package]" value="7"<?php
+checkBox(7, $return);
+?>/></td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="note"><b>* Periodo de prueba</b> v&aacute;lido hasta el <?php
+$time = strtotime('last day of next month');
+print date('d', $time);
+        ?> de <?php
+print Mekayotl_tools_utils_Conversion::mesEsp(date('n',$time));
+?>.</p>
+    </section>
+    <section id="elDatos">
+        <hgroup>
+            <h4>2</h4>
+            <h3>Registra tus datos:</h3>
+        </hgroup>
+        <label>Nombre de usuario<span class="requerido">*requerido</span></label>
+        <input type="text" name="registration[adminNick]" required="required" value="<?php
+print $_SESSION['registration']['adminNick'];
+    ?>" pattern="[a-z]+" title="Solo letras minusculas y sin espacios"  placeholder="login" />
+        <label>Contrase&ntilde;a<span class="requerido">*requerido</span></label>
+        <input type="password" name="password[]" required="required" placeholder="Contraseña"/>
+        <br />
+        <input type="password" name="password[confirmation]" required="required" placeholder="Confirmar contraseña" />
+        <hr />
+        <label class="columna">Nombre<span class="requerido">*requerido</span></label>
+        <label class="columna">Apellido Paterno</label>
+        <label class="columna">Apellido Materno</label>
+        <input class="columna" type="text" name="registration[userName][names]" required="required" value="<?php
+print $_SESSION['registration']['name']['names'];
+?>" placeholder="Nombre(s)" />
+        <input class="columna" type="text" name="registration[userName][father]" value="<?php
+print $_SESSION['registration']['name']['father'];
+?>" placeholder="Apellido paterno" />
+        <input class="columna" type="text" name="registration[userName][mother]" value="<?php
+print $_SESSION['registration']['name']['mother'];
+?>" placeholder="Apellido materno" />
+        <label>Correo electr&oacute;nico:<span class="requerido">*requerido</span></label>
+        <input type="email" name="registration[email]" required="required" value="<?php
+print $_SESSION['registration']['email'];
+?>" placeholder="e-mail"/>
+        <hr />
+        <label>Empresa</label>
+        <input type="text" id="inpEmpresa" name="registration[firm]" required="required" value="<?php
+print $_SESSION['registration']['firm'];
+    ?>" placeholder="Nombre de empresa" />
+        <label>Direcci&oacute;n de la cuenta<span class="requerido">*requerido</span></label>
+        http://<input type="text" id="inpSubdominio" name="registration[name]" required="required" value="<?php
+print $_SESSION['registration']['name'];
+?>" pattern="[a-z]{4,15}" placeholder="empresa" title="Solo letras minusculas y sin espacios, minimo 4 maximo 15" />.nortcloud.com
+        <span id="verifyName">&nbsp;</span>
+        <p class="note">
+            Con esta direcci&oacute;n ingresar&aacute; a su servicio OrbetPro
+            versi&oacute;n beta.
+        </p>
+    </section>
+    <section id="elBotones" class="change">
+        <p class="note">
+            <input type="checkbox" name="agreeTerms" required="required" value="agreeTerms"/>
+            Estoy conforme con sus <a>Condiciones</a> y acepto haber le&iacute;do sus
+            <a>Pol&iacute;ticas</a> de uso de datos.
+        </p>
+        <input type="hidden" id="inpValidate" value="false"/>
+        <button type="submit" class="likeButton geenButton simplePullRight">Registrar</button>
+        <button type="reset" class="likeButton gayButton simplePullRight">Limpiar</button>
+    </section>
+    <section id="elGracias" class="hide change">
+        <hgroup>
+            <h4>3</h4>
+            <h3>&#161;Gracias por registrarte con nosotros!</h3>
+        </hgroup>
+        <p class="note">
+            Te hemos enviado un correo de bienvenida, donde podr&aacute;s encontrar
+            los datos de tu cuenta, tus accesos y m&aacute;s informaci&oacute;n sobre nuestros
+            productos.
+            <br />
+            <br />
+            Ya puedes empezar a utilizar tu cuenta.
+            <br />
+        </p>
+        <a id="linkToApp" class="likeButton orangeButton">Ir a la aplicaci&oacute;n</a>
+    </section>
+</form>
+</section>
+<?php
+include_once(PUBLIC_PATH . '/../inc/footer.php');

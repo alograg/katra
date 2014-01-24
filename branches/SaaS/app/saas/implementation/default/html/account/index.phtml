@@ -1,0 +1,42 @@
+<?php
+?>
+<header>
+    <h2>Aplicaciones</h2>
+</header>
+<?php
+if (count($return) == 0) {
+?>
+<p>No tiene suscripciones</p>
+<?php
+} else {
+    ?>
+<div class="instaledApp clearfix">
+<?php
+    foreach ($return as $suscription) {
+        ?>
+    <article class="suscriptionDetails">
+        <a href="/orbet/Task/tasks.html"><img src="http://www.nortcloud.com/visual/img/<?php
+        print strtolower($suscription['serviceName']);
+        ?>_comprado.png"/></a>
+        <h4><?php print $suscription['packageName'];?></h4>
+        <p class="description"><?php print $suscription['packageDescription'];?></p>
+        <p class="price"><?php print $suscription['price'];?></p>
+        <!--a href="#">Aumentar</a-->
+    </article>
+<?php
+    }
+?>
+    <article class="suscriptionDetails">
+        <img src="http://www.nortcloud.com/visual/img/duit_preventivo.png"/>
+        <p class="fecha-lanzamiento">LANZAMIENTO 2013</p>
+    </article>
+    <article class="suscriptionDetails">
+        <img src="http://www.nortcloud.com/visual/img/hunterdoc_preventivo.png"/>
+        <p class="fecha-lanzamiento">LANZAMIENTO 2013</p>
+    </article>
+</div>
+<?php
+}
+?>
+<div class="availableApp">
+</div>

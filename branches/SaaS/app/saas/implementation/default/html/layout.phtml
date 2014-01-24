@@ -1,0 +1,78 @@
+<?php
+    $sUrl = Mekayotl_tools_Request::singleton();
+    $logoURL = App_Saas::suscriptionLogo();
+    $account = $_SESSION['Saas']['accountInfo']['account'];
+    $clientName = $account['firm'];
+?>
+<header id="head" class="interno">
+    <div class="sombra-header"></div>
+    <a href="http://www.nortcloud.com/" class="logoNort"><img
+        src="default/style/nort/img/logo_pequeno.png"></a>
+    <div class="pull-right">
+        <div class="enlacesTop">
+            <p>
+                <b><?php print $clientName;?></b> (<a class="linktxt" href="Account/view.html">Editar</a>) |
+                <!-- a class="linktxt" href="http://www.nortcloud.com/dashboard/Account/list.html">Cambiar</a>) |
+                <a id="myInfo" href="Member/details.html" title="Perfil">Mi perfil</a> |-->
+                <a id="menuUserLogout" href="logout.html" title="Salir">Salir</a>
+            </p>
+        </div>
+    </div>
+</header>
+<div class="container">
+    <div id="wrapper">
+        <?php
+            if ($_SESSION['Saas']['accountInfo']) {
+        ?><div class="dashboard-nav-sombra-superior"></div>
+        <nav id="admin-nav">
+            <menu>
+                <li id="navSubscriptions"<?php
+    print $sUrl->methodName == 'index' ? 'class="active"' : '';
+    ?>>
+                    <a href="Account/index.html">Suscripciones</a>
+                </li>
+                <?php
+                // Solo Administradores
+                if($_SESSION['Saas']['accountInfo']['account']['email'] != $_SESSION['Saas']['member']['email']) {
+                ?><li id="navInvoices"<?php
+    print $sUrl->methodName == 'invoices' || $sUrl->methodName == 'bill' ? 'class="active"' : '';
+    ?>>
+                    <a href="Account/invoices.html">Estado de cuenta</a>
+                </li>
+                <?php
+                }
+                ?>
+           </menu>
+        </nav>
+        <?php
+            };
+        ?><div class="dashboard-nav-sombra-inferior"></div>
+        <section class="dashboard">
+    <?php echo $inner;?>
+        </section>
+    </div>
+</div>
+<div class="footer">
+    <div class="footerCenter clearfix">
+        <ul class="clearfix">
+            <li><a href="http://www.nortcloud.com/">Nort</a></li>
+            <!--li><a href="http://www.nortcloud.com/orbet.php">OrbetPro</a></li>
+            <!--li>
+                    <a href="#">Press</a>
+                </li>
+                <li>
+                    <a href="#">Ayuda</a>
+                </li>
+                <li>
+                    <a href="#">FAQ</a>
+                </li-->
+            <li class="noBorder"><a
+                href="http://www.aquainteractive.com.mx/contacto.html"
+                target="_blank">Contacto</a></li>
+        </ul>
+        <p class="aquaFoot">
+            <a href="http://www.aquainteractive.com.mx"><img
+                src="default/style/nort/img/logo_aqua.png" alt="aqua" /><span>Nort&reg; by Aqua Interactive</span></a>
+        </p>
+    </div>
+</div>

@@ -1,0 +1,52 @@
+<?php
+if ($return == FALSE) {
+    Mekayotl_tools_Request::redirect('join.html');
+}
+include_once (PUBLIC_PATH . '/../inc/header.php');
+$this->setTitle('NORT | Registro');
+$this->setHeadStyles(array( array(
+        '@media' => "all",
+        '@href' => '/inc/style.css'
+    )));
+$app = App_Saas::singleton();
+$this->addHeadScripts(array(
+    '@src' => $app->getViewFilePath('mootools/1.4.5/core/compressed.js', true),
+));
+$instalactionURL = array_reverse($app->request
+        ->parsed
+        ->label);
+$instalactionURL[0] = $return['account']->name;
+$instalactionURL = implode('.', $instalactionURL);
+$instalactionURL .= '/'.strtolower($_SESSION['registration']['package']['serviceName']) . '/';
+//$this->addHttpMeta('Refresh', '15;url=http://' .  $instalactionURL);
+unset($_SESSION['registration']);
+?>
+<script type="text/javascript">
+var timeOut = 15;
+var interval;
+var timerDisplay;
+var putSeconds =function(){
+    if(timeOut>0){
+        timeOut--;
+    }else{
+        clearInterval(interval);
+    }
+    timerDisplay.set('html',timeOut);
+}
+window.addEvent('domready',function(){
+    timerDisplay = $('instalationTimer');
+    //setInterval(putSeconds,1000);
+});
+</script>
+<section class="likeBody">
+    <article class="textoCentrado">
+        <h2>Gracias!!!</h2>
+        <p>En unos momentos estar&aacute; disponible tu registro.</p>
+        <p>
+            <a href="http://<?php print $instalactionURL;?>"><?php print $instalactionURL;?></a>
+        </p>
+        <p>Faltan <samp id="instalationTimer">15</samp> segundos.</p>
+    </article>
+</section>
+<?php
+include_once(PUBLIC_PATH . '/../inc/footer.php');

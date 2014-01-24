@@ -1,0 +1,176 @@
+/**
+ * Efector, metodo y plantillas (Mixins)
+ *
+ * @author Hector <henry@aquainteractive.com.mx>
+ * @author Henry <henry@aquainteractive.com.mx>
+ * @copyright Copyright (c) 2012, {@link http://www.aquainteractive.com Aqua
+ * Interactive}
+ * @package Mekayotl
+ * @since Revisión $id$ $date$
+ * @subpackage css
+ * @version $Id$
+ */
+.removeAppearance {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    background: none;
+    border: none;
+    border-width: 0;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.removeDropShadow {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+
+.removeRoundedCorners {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+
+.removeEmbosText {
+    -webkit-text-shadow: none;
+    -moz-text-shadow: none;
+    -o-text-shadow: none;
+    text-shadow: none;
+}
+
+.gradientAction {
+    background-color: #008845;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 70%, from(#39AB4A), to(#008845));
+    background-image: -moz-linear-gradient(70% 0% 270deg, #39AB4A, #008845);
+    background-image: -o-linear-gradient(#39AB4A, #008845);
+    filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#39AB4A, endColorstr=#008845)');
+    -ms-filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#39AB4A, endColorstr=#008845)');
+}
+
+.gradientDarkGray {
+    background-color: #252122;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#414042), to(#242021));
+    background-image: -moz-linear-gradient(100% 0% 270deg, #414042, #242021);
+    background-image: -o-linear-gradient(#414042, #242021);
+    filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#414042, endColorstr=#242021)');
+    -ms-filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#414042, endColorstr=#242021)');
+}
+
+.gradientMediumGray {
+    background-color: #4D4D4D;
+    background-image: -moz-linear-gradient(100% 0% 270deg, #6D6E71, #333333);
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6D6E71), to(#333333));
+    background-image: -o-linear-gradient(#6D6E71, #333333);
+    filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#6D6E71, endColorstr=#333333)');
+    -ms-filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#6D6E71, endColorstr=#333333)');
+}
+
+.gradientLightGray {
+    background-color: #595A5C;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 70%, from(#6D6E71), to(#595A5C));
+    background-image: -moz-linear-gradient(70% 0% 270deg, #6D6E71, #595A5C);
+    background-image: -o-linear-gradient(#6D6E71, #595A5C);
+    filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#6D6E71, endColorstr=#595A5C)');
+    -ms-filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#6D6E71, endColorstr=#595A5C)');
+}
+
+.invGradientLightGray {
+    background-color: #595A5C;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#595A5C), to(#6D6E71));
+    background-image: -moz-linear-gradient(100% 0% 270deg, #595A5C, #6D6E71);
+    background-image: -o-linear-gradient(#595A5C, #6D6E71);
+    filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#595A5C, endColorstr=#6D6E71)');
+    -ms-filter: e('progid:DXImageTransform.Microsoft.gradient(startColorstr=#595A5C, endColorstr=#6D6E71)');
+}
+
+.dropShadow (@sizeShadow: .3125em) {
+    -webkit-box-shadow: 0 0 @sizeShadow @sizeShadow RGBA(0, 0, 0, .2);
+    -moz-box-shadow: 0 0 @sizeShadow @sizeShadow RGBA(0, 0, 0, .2);
+    -o-box-shadow: 0 0 @sizeShadow @sizeShadow RGBA(0, 0, 0, .2);
+    box-shadow: 0 0 @sizeShadow @sizeShadow RGBA(0, 0, 0, .2);
+}
+
+.embosText (@dsColor: #666 , @size: -0.067em) {
+    -webkit-text-shadow: @size @size 0 @dsColor;
+    -moz-text-shadow: @size @size 0 @dsColor;
+    -o-text-shadow: @size @size 0 @dsColor;
+    text-shadow: @size @size 0 @dsColor;
+}
+
+.innerGlow {
+    -webkit-box-shadow: inset 0 0 .4em .0625em RGBA(0, 0, 0, .5);
+    -moz-box-shadow: inset 0 0 .4em .0625em RGBA(0, 0, 0, .5);
+    -o-box-shadow: inset 0 0 .4em .0625em RGBA(0, 0, 0, .5);
+    box-shadow: inset 0 0 .4em .0625em RGBA(0, 0, 0, .5);
+}
+
+.insideTopShadow {
+    -webkit-box-shadow: inset 0 .5em .5em -0.5em RGBA(0, 0, 0, .5);
+    -moz-box-shadow: inset 0 .5em .5em -0.5em RGBA(0, 0, 0, .5);
+    -o-box-shadow: inset 0 .5em .5em -0.5em RGBA(0, 0, 0, .5);
+    box-shadow: inset 0 .5em .5em -0.5em RGBA(0, 0, 0, .5);
+}
+
+.roundedCorners (@round: .25em) {
+    -webkit-border-radius: @round;
+    -moz-border-radius: @round;
+    -o-border-radius: @round;
+    border-radius: @round;
+}
+
+.actionStyle {
+    .gradientAction;
+    border: .0625em solid #008845;
+    color: #FFF;
+    font-size: 1em;
+}
+
+.buttonStyle {
+    .gradientDarkGray;
+    .roundedCorners;
+    border: none;
+    color: #FFF;
+    display: block;
+    overflow: hidden;
+    padding: 0;
+}
+
+.backStyle {
+    background-color: #333 ! important;
+    background-image: none ! important;
+    margin-left: 2em ! important;
+    &:before {
+        content: "";
+        display: block;
+        border-bottom: 1em solid transparent;
+        border-left: 1em solid transparent;
+        border-right: 1em solid #333;
+        border-top: 1em solid transparent;
+        float: left;
+        margin-left: -2em;
+        position: absolute;
+    }
+}
+
+.supportText (@size: .8em) {
+    color: #B3B3B3;
+    font-size: @size;
+    font-style: italic;
+}
+
+.setIconSize (@size: 1em , @bgSize: 1em) {
+    background-image: url('img/icons.png');
+    background-repeat: no-repeat;
+    background-size: @bgSize;
+    display: block;
+    line-height: 0;
+    width: @size;
+    height: @size;
+}
+

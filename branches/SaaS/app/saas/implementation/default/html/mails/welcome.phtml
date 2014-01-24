@@ -1,0 +1,66 @@
+<?php
+    $baseURL = 'http://' . $_SERVER['SERVER_NAME'];
+?>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif">
+    <table width="620" border="0" cellpadding="10" cellspacing="0" style="line-height:1em;" bgcolor="#F2F2F2">
+        <colgroup>
+            <col span="2" width="50">
+            <col span="4" width="100">
+            <col span="2" width="50">
+        </colgroup>
+        <tr>
+            <th colspan="2">&nbsp;</th>
+            <th colspan="4"><img src="<?php print $baseURL; ?>/img/logo/nortHeader.png" title="NORT"/></th>
+            <th colspan="2"><a href="https://www.facebook.com/pages/Nortcloud/387776757925505?fref=ts" title="Facebook: /Nortcloud "><img src="<?php print $baseURL; ?>/img/icon/face.png" /></a><a href="https://twitter.com/Nortcloud" title="Twitter: @Nortcloud"><img src="<?php print $baseURL; ?>/img/icon/twit.png" /></a></th>
+        </tr>
+        <tr>
+            <th colspan="8"><img src="<?php print $baseURL; ?>/img/bg/shadowDown.png" width="600"/></th>
+        </tr>
+        <tr>
+            <td colspan="6"><h1>&#161;Hola, <?php print $return['member']->fullName; ?>!</h1>
+            <p>
+                Gracias por unirte al espacio Nort. Ahora podrás gozar los múltiples beneficios que te ofrecemos como:
+            </p>
+            <ul>
+                <li>
+                    Incrementar la productividad empresarial
+                </li>
+                <li>
+                    Resguardar tu capital intelectual
+                </li>
+                <li>
+                    Cuidar tus finanzas
+                </li>
+                <p>
+                    Y mucho m&aacute;s&#8230;
+                </p>
+            </ul>
+            <p>
+                Nort, aplicaciones intuitivas, seguras y accesibles.
+            </p></td>
+            <td colspan="2"><img src="<?php print $baseURL; ?>/img/content/administrador.png"/></td>
+        </tr>
+        <tr>
+            <td colspan="1">&nbsp;</td>
+            <td colspan="4" bgcolor="#E6E6E6">TUS DATOS DE ACCESO:
+            <br />
+            <a href="http://<?php print $return['url']; ?>"><strong>http://<?php print $return['url']; ?></strong></a>
+            <br />
+            <b>Usuario:</b> <?php print $return['member']->nick; ?>
+            <br />
+            <b>Contrase&ntilde;a:</b> <?php print $return['member']->password; ?></td>
+            <td colspan="1">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="8">&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="8" bgcolor="#4D4D4D">
+            <center style="color:#FFF;">
+                <a href="http://www.nortcloud.com/" style="color:#FFF;">Nort</a> | <a href="http://www.nortcloud.com/productos.html" style="color:#FFF;">Productos</a> | <a href="http://www.nortcloud.com/contacto.html" style="color:#FFF;">Contacto</a> | <a href="http://ayuda.nortcloud.com/" style="color:#FFF;">Ayuda</a>
+                <br />
+                <img src="<?php print $baseURL; ?>/img/logo/nortFooter.png" alt="NORT" style="color:#FFF;"/>&reg; por <a href="http://www.aquainteractive.com.mx" style="color:#FFF;">Aqua Interactive</a>&copy;
+                Marca Registrada, Derechos Reservados <?php echo date('Y'); ?>
+            </center></td>
+        </tr>
+    </table> </font>

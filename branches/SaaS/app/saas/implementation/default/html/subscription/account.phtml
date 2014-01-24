@@ -1,0 +1,27 @@
+<?php
+$request = Mekayotl_tools_Request::parseURI();
+$baseURL = 'http://' . $return['account']['name'] . '.'.$request->label[1].'.com/';
+if (count($return['subsrctiptions']) == 1) {
+    $toURL = $baseURL . strtolower($return['subsrctiptions'][0]['serviceName']);
+    Mekayotl_tools_Request::redirect($toURL, FALSE);
+}
+?><hgroup>
+    <h2>Suscripciones</h2>
+    <h3><?php print $return['account']['firm']; ?> <small>(<?php
+print $return['account']['name'];
+?>)</small></h3>
+</hgroup>
+<ol class="subscriptions">
+<?php
+foreach ($return['subsrctiptions'] as $subscription) {
+?>
+    <li>
+        <a href="<?php
+    print $baseURL . strtolower($subscription['serviceName']);
+                 ?>/index.html"><?php print $subscription['serviceName']; ?></a>
+        <small class="status"><?php print $subscription['serviceSatatus']; ?></small>
+    </li>
+<?php
+}
+?>
+</ol>

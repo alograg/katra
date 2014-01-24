@@ -1,0 +1,111 @@
+<?php
+$current = array_shift($return);
+$account = (object) $_SESSION['Saas']['accountInfo']['account'];
+$status = array(
+    'current'=>'Actual',
+    'paid'=>'Pagada',
+    'late'=>'Atrasada',
+    'canceled'=>'Cancelada'
+);
+?>
+<h2>Estado de cuenta</h2>
+<section id="currentBill">
+    <p class="date">
+        <b><?php
+        $billDate = Mekayotl::iso8601ToTime($current->createdOn);
+        print ucfirst(Mekayotl_tools_utils_Conversion::mesEsp(date('n', $billDate))
+                    . ' ' . date('Y', $billDate));
+        ?></b>
+    </p>
+    <hr />
+    <p class="details">
+        Monto: <b><?php print $current->currency;?>$ <?php
+            print number_format(
+                max(
+                    floatval($current->subtotal),
+                    floatval($current->total)
+                ),
+                2,
+                '.',
+                ','
+            );
+        ?></b><br />
+        Estado: <b><?php print $status[$current->status];?></b><br />
+        Fecha limite de pago: <b>31 de <?php
+        print ucfirst(Mekayotl_tools_utils_Conversion::mesEsp(date('n', $billDate)));
+        ?></b><br />
+        <a href="Account/bill/<?php print $current->invoice;?>.html">Mas detalles</a>
+    </p>
+</section>
+<section id="currentBillInfo">
+    <p class="titulo">Datos de facturaci&oacute;n</p>
+    <hr />
+    <p>
+        <?php print $account->firm;?><br />
+        <?php print $account->street;?>
+        <?php print $account->outside;
+        if($account->inside != ''){
+        ?> interior
+        <?php print $account->inside;
+        } ?>
+        <br />
+        <?php print $account->zip;
+        if($account->inside != ''){
+        ?>, colonia
+        <?php print $account->colony;
+        } ?>
+        <br />
+        <?php print $account->city;
+        if($account->inside != ''){
+        ?>,
+        <?php print $account->state;
+        }
+        if($account->inside != ''){
+        ?>,
+        <?php print $account->country;
+        } ?>
+        <br />
+        <?php print $account->taxKey;?>
+        <br />
+        <a class="linktxt" href="Account/view.html">Cambiar</a>
+    </p>
+</section>
+<section id="oldBills">
+    <h3>Estados de cuenta anteriores</h3>
+    <?php
+    if(count($return) > 0) {
+    ?>
+    <table>
+        <thead>
+            <tr>
+                <th class="first">Mes</th>
+                <th>Saldo</th>
+                <th class="last">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+        <?php
+        foreach ($return as $bill) {
+            $thisBillDate = Mekayotl::iso8601ToTime($bill->createdOn);
+        $thisBillDateText = ucfirst(Mekayotl_tools_utils_Conversion::mesEsp(date('n', $thisBillDate))
+                    . ' ' . date('Y', $billDate));
+        ?>
+        <tr>
+            <th><a href="Account/bill/<?php print $bill->invoice;?>.html"><?php
+                print $thisBillDateText;?></a></th>
+            <td><?php print $current->currency;?>$ <?php print number_format(
+                max(
+                    floatval($bill->subtotal),
+                    floatval($bill->total)
+                ),
+                2,
+                '.',
+                ','
+            );?></td>
+            <td><?php print $status[$bill->status];?></td>
+        </tr>
+        <?php } ?>
+        </tbody>
+    </table>
+    <?php } ?>
+</section>

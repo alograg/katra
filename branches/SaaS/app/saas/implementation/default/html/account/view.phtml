@@ -1,0 +1,52 @@
+<?php
+if ($_SESSION['Saas']['accountInfo']['account']['email']
+        != $_SESSION['Saas']['user']['email']) {
+    Mekayotl_tools_Request::redirect('Account/index.html');
+}
+$logoURL = App_Floyd::suscriptionLogo();
+?>
+<form id="frmConfiguration" class="clearfix" action="Account/view.html"
+    enctype="multipart/form-data" method="post">
+    <fieldset>
+        <fieldset>
+            <input type="hidden" name="account[account]" value="<?php print $return->account; ?>" />
+            <h2><b>Nombre de la cuenta:</b> <?php print $return->name; ?></h2>
+            <label for="txtFirm">Nombre de la empresa: </label>
+            <input type="text" id="txtFirm" name="account[firm]" value="<?php print $return->firm; ?>" />
+            <label for="txtBussiness">Nombre fiscal: </label>
+            <input type="text" id="txtBussiness"name="account[bussiness]" value="<?php print $return->bussiness; ?>" />
+        </fieldset>
+        <fieldset>
+            <legend>Contacto</legend>
+            <label for="txtPhone">Teléfono: </label>
+            <input type="text" id="txtPhone" name="account[phone]" value="<?php print $return->phone; ?>" />
+            <label for="txtFax">FAX: </label>
+            <input type="text" id="txtFax" name="account[fax]" value="<?php print $return->fax; ?>" />
+            <label for="txtEmail">Correo electrónico: </label>
+            <input type="text" id="txtEmail" name="account[email]" value="<?php print $return->email; ?>"<?php
+            print  ($_SESSION['Saas']['user']['email'] != $return->email) ? ' readonly="readonly"'
+                    : '';
+                ?> />
+        </fieldset>
+    </fieldset>
+    <fieldset class="noMargin">
+        <legend>Dirección</legend>
+        <label for="txtStreet">Calle: </label>
+        <input type="text" id="txtStreet" name="account[street]" value="<?php print $return->street; ?>" />
+        <label for="txtOutside">Número exterior: </label>
+        <input type="text" id="txtOutside" name="account[outside]" value="<?php print $return->outside; ?>" />
+        <label for="txtInside">Número interior: </label>
+        <input type="text" id="txtInside" name="account[inside]" value="<?php print $return->inside; ?>" />
+        <label for="txtColony">Colonia: </label>
+        <input type="text" id="txtColony" name="account[colony]" value="<?php print $return->colony; ?>" />
+        <label for="txtZip">Código Postal: </label>
+        <input type="text" id="txtZip" name="account[zip]" value="<?php print $return->zip; ?>" />
+        <label for="txtCity">Ciudad: </label>
+        <input type="text" id="txtCity" name="account[city]" value="<?php print $return->city; ?>" />
+        <label for="txtState">Estado: </label>
+        <input type="text" id="txtState" name="account[state]" value="<?php print $return->state; ?>" />
+        <label for="txtCountry">País: </label>
+        <input type="text" id="txtCountry" name="account[country]" value="<?php print $return->country; ?>" />
+    </fieldset>
+    <button type="submit">Guardar</button>
+</form>

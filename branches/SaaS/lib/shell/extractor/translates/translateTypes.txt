@@ -1,0 +1,16 @@
+Archivo Salida
+;FlexForm mxml
+;FlexModel as
+;List txt
+;PHPVO php
+;ProventasVO php
+;ProventasDelegates php
+;PHPDto php
+;PHPDbo php
+;PHPDao php
+;MekayotlDOC html
+;MekayotlVO php
+;MekayotlTable php
+;MekayotlLogic php
+MekayotlAS3VO as
+MekayotlAS3VOExtended as

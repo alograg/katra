@@ -1,0 +1,3234 @@
+<svg xmlns:gliffy="http://www.gliffy.com" xmlns:x="http://ns.adobe.com/Extensibility/1.0/"
+	xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/"
+	xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" width="2884" height="884">
+	<rect stroke="#000000" stroke-width="0" fill="#ffffff" x="0" y="0"
+		width="2883" height="883" />
+	<g transform='translate(47.5,144.5) rotate(0 105.5 237.5)'>
+		<rect width='211.0' height='27.0' stroke="#000000" stroke-width="2"
+			fill="#ffffff"></rect>
+		<g transform='translate(0.0,21.5)'>
+			<text x='105.5' style='text-anchor: middle' y='-3.0'>
+				<tspan xml:space='preserve' font-size='18' font-family='Arial'
+					fill='#000000'>
+					Sitio en Kadar
+				</tspan>
+			</text>
+		</g>
+		<rect x='0.0' y='27.0' width='211.0' height='448.0' stroke="#000000"
+			stroke-width="2" fill="none" />
+		<g></g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer0"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="8" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer1"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="6" x="2" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer2"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="4" x="4" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer3"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer4"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer5"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer6"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer7"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer8"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer9"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="12" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer10"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="12" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer11"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="12" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer12"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer13"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer14"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer15"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer16"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer17"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer18"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="7.833,1.639 0,10.217 2.834,11.984 0,12 0,30 16,30 16,28.17 25.042,22.866 24.988,11.465   26.865,10.562 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer19"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="13.988,17.281 12.936,17.817 4.901,13.148 4.859,19.406 13.968,25.906 " />
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="2.834,20.252 2.828,13.984 0,14 0,30 14.031,30 13.988,28.22 " />
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="13.319,15.504 18.147,8.805 7.833,3.811 2.868,9.441 " />
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="17.692,25.162 17.692,19.434 21.732,17.15 21.715,23.135 23.161,22.233 23.143,11.356 19.831,9.728   16.056,15.1 16.013,26.109 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer20"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="1.112,21.329 1.112,15.946 0,15.969 0,30 12.047,30 12.008,28.995 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer21"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer22"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer23"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer24"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="16" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer25"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="14" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.homePage.layer26"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" x="0" />
+		</symbol>
+	</defs>
+	<g transform="translate(102,196) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer0"
+			y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer1"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer2"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer3"
+			y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer4"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer5"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer6"
+			y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer7"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer8"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer9"
+			y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer10"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer11"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer12"
+			y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer13"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer14"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer15"
+			y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer16"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer17"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer18"
+			y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer19"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer20"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer21"
+			y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer22"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer23"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer24"
+			y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer25"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer26"
+			y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					1*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Index del sitio
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					promocional
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer0"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="8" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer1"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="6" x="2" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer2"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="4" x="4" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer3"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer4"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer5"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer6"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer7"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer8"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer9"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="12" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer10"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="12" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer11"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="12" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer12"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer13"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer14"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer15"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer16"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer17"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer18"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="4,12 16,24 16,30 0,30 0,12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer19"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="4,24 4,14 4,14 0,14 0,16 2,16 2,26 11.962,26 11.962,30 14.011,30 14.011,24 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer20"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="2,16 0,16 0,30 11.997,30 12.077,26 2,26 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer21"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer22"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer23"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer24"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="16" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer25"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="14" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.page.layer26"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" x="0" />
+		</symbol>
+	</defs>
+	<g transform="translate(102,336) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="80" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer26" y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					2*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Descripción de
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					servicio
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(102,486) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="80" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.page.layer26" y="92" />
+		<g transform='translate(0.0,47.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					3*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Paquete
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(433.0,332.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g4' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g4)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					4*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Mas de una
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					cuenta?
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer0"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="8" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer1"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="6" x="2" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer2"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="4" x="4" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer3"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer4"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer5"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer6"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer7"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer8"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer9"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="12" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer10"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="12" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer11"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="12" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer12"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer13"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer14"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer15"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer16"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer17"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer18"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M24,17c0,0.553-0.447,1-1,1H9c-0.553,0-1-0.447-1-1l0,0c0-0.553,0.447-1,1-1h14C23.553,16,24,16.447,24,17  L24,17z"
+				fill="#FFFFFF" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M20,18.875v-4V10c0-1.1-0.9-2-2-2H6c-1.1,0-2,0.9-2,2v2H0v18h16v-4h2c1.1,0,2-0.9,2-2V18.875z"
+				fill="#FFFFFF" />
+			<ellipse xmlns="http://www.w3.org/2000/svg" cx="26" cy="16.862"
+				fill="#FFFFFF" rx="4" ry="4.863" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="30" x="0" y="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer19"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<ellipse xmlns="http://www.w3.org/2000/svg" cx="26.044" cy="16.925"
+				fill="#FFFFFF" rx="2.06" ry="2.812" />
+			<path xmlns="http://www.w3.org/2000/svg" d="M6,26c-1.1,0-2-0.9-2-2V14H0v16h14v-4H6z"
+				fill="#FFFFFF" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M20.141,16v-2H18v-4H6v14h12v-4h2.125v-2H14v4h-4v-4H9c-0.553,0-1-0.447-1-1s0.447-1,1-1h1v0L20.141,16z"
+				fill="#FFFFFF" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="30" x="0" y="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer20"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="30" x="0" y="0" />
+			<path xmlns="http://www.w3.org/2000/svg" d="M6,28c-2,0-4-2-4-4v-8H0v14h12.007l-0.001-2H6z"
+				fill="#FFFFFF" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer21"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer22"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer23"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer24"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="16" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer25"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="14" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.login.layer26"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" x="0" />
+		</symbol>
+	</defs>
+	<g transform="translate(303,194) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer26" y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					3*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Ingreso a
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Panel
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.link.layer0"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="30" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M30,28.774l-4.24-4.273c1.156-1.789,0.975-4.204-0.572-5.792l-2.38-2.441  c-1.546-1.585-3.949-1.832-5.765-0.729l-2.538-2.585c1.157-1.789,0.974-4.205-0.573-5.792l-2.38-2.442  C10.009,3.134,7.605,2.887,5.789,3.99L1.801,0L0,1.023l4.292,4.421c-1.156,1.787-0.975,4.203,0.573,5.79l2.379,2.443  c1.546,1.584,3.949,1.831,5.766,0.729l2.537,2.585c-1.157,1.789-0.976,4.204,0.572,5.792l2.38,2.441  c1.545,1.584,3.948,1.831,5.765,0.729L28.306,30L30,28.774z"
+				fill="#FFFFFF" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.link.layer1"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="30" />
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="none"
+				points="30,30 0,30 0,0 0.969,0 30,0 " />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M10.466,11.814c0.001,0,0.001,0.002,0.002,0.002l1.004,1.023c-0.925,0.336-2.002,0.131-2.733-0.619  L6.358,9.78C5.621,9.022,5.444,7.923,5.821,7.001l0.909,0.923c0.403,0.412,1.062,0.417,1.472,0.014  C8.613,7.536,8.62,6.878,8.22,6.466C8.219,6.465,8.217,6.464,8.217,6.463L7.324,5.556c0.929-0.335,2.004-0.13,2.734,0.618  l2.381,2.442c0.737,0.758,0.912,1.856,0.538,2.778l-1.021-1.038c-0.403-0.412-1.064-0.418-1.476-0.015  C10.07,10.744,10.065,11.402,10.466,11.814z"
+				fill="#FFFFFF" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M21.835,23.479c-0.002,0,0.001,0.002,0.001,0.002l0.89,0.907c-0.924,0.336-2.002,0.131-2.734-0.619  l-2.378-2.442c-0.738-0.756-0.914-1.855-0.54-2.778l1.022,1.039c0.401,0.411,1.062,0.417,1.476,0.014  c0.409-0.403,0.417-1.061,0.016-1.472c-0.002-0.001-0.002-0.002-0.003-0.003l-1.004-1.023c0.926-0.337,2.005-0.131,2.732,0.618  l2.38,2.441c0.736,0.76,0.914,1.856,0.539,2.781l-0.907-0.924c-0.404-0.412-1.064-0.418-1.474-0.014  C21.439,22.409,21.432,23.068,21.835,23.479z"
+				fill="#FFFFFF" />
+		</symbol>
+	</defs>
+	<g transform="translate(183,274) rotate(0 10 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer0" y="0" />
+		<use height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer1" y="0" />
+		<g></g>
+	</g>
+	<g transform='translate(594.0,333.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g7' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g7)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					6*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Mas de un
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					servicio?
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer0"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="8" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer1"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="6" x="2" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer2"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="4" x="4" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer3"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer4"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer5"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer6"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer7"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer8"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer9"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="12" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer10"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="12" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer11"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="12" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer12"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer13"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer14"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer15"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer16"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer17"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer18"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="24.016,14 24.016,12 24.016,10 22.016,10 16.016,10 16.016,8 18.016,8 18.016,0 12.016,0 12.016,8   14.016,8 14.016,10 8.016,10 6.016,10 6.016,12 6.016,14 4.016,14 4.016,22 10.016,22 10.016,14 8.016,14 8.016,12 14.016,12   14.016,14 12.016,14 12.016,22 18.016,22 18.016,14 16.016,14 16.016,12 22.016,12 22.016,14 20.016,14 20.016,22 26.016,22   26.016,14 " />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="16" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer19"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="2" x="14" y="2" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="2" x="6" y="16" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="2" x="14" y="16" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="2" x="22" y="16" />
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="14,14 14,12 8,12 8,14 10,14 10,22 4,22 4,14 2,14 0,14 0,30 14,30 14,22 12,22 12,14 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer20"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="2,24 2,16 0,16 0,30 12,30 12,24 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer21"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer22"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer23"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer24"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="16" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer25"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="14" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.siteMap.layer26"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" x="0" />
+		</symbol>
+	</defs>
+	<g transform="translate(432,193) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer0"
+			y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer1"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer2"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer3"
+			y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer4"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer5"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer6"
+			y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer7"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer8"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer9"
+			y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer10"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer11"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer12"
+			y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer13"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer14"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer15"
+			y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer16"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer17"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer18"
+			y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer19"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer20"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer21"
+			y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer22"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer23"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer24"
+			y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer25"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer26"
+			y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					5*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Seleccion de
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					cuentas
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(592,194) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer0"
+			y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer1"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer2"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer3"
+			y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer4"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer5"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer6"
+			y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer7"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer8"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer9"
+			y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer10"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer11"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer12"
+			y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer13"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer14"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer15"
+			y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer16"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer17"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer18"
+			y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer19"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer20"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer21"
+			y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer22"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer23"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer24"
+			y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer25"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.siteMap.layer26"
+			y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					7*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Selector de
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					servicios
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(718.0,370.5) rotate(0 75.0 32.5)'>
+		<g transform='translate(0.0,7.5)'>
+			<text x='75.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					URL de la
+				</tspan>
+			</text>
+			<text x='75.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					suscripcion
+				</tspan>
+			</text>
+			<text x='75.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					ej.
+				</tspan>
+			</text>
+			<text x='75.0' style='text-anchor: middle' y='42.400000000000006'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					http://cliente.saas.com.
+				</tspan>
+			</text>
+			<text x='75.0' style='text-anchor: middle' y='57.2'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					x
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(726,372) rotate(0 10 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer0" y="0" />
+		<use height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer1" y="0" />
+		<g></g>
+	</g>
+	<g transform='translate(948.0,333.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g12' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g12)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					7*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Esta
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					autentificado?
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(1110,331) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer0"
+			y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer1"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer2"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer3"
+			y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer4"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer5"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer6"
+			y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer7"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer8"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer9"
+			y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer10"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer11"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer12"
+			y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer13"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer14"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer15"
+			y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer16"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer17"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer18"
+			y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer19"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer20"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer21"
+			y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer22"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer23"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer24"
+			y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer25"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.homePage.layer26"
+			y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					9*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Tablero de la
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					aplicación
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(1017,171) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.login.layer26" y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					8*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Ingreso a
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					aplicación
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(182,564) rotate(0 10 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer0" y="0" />
+		<use height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer1" y="0" />
+		<g></g>
+	</g>
+	<g transform='translate(55.0,663.5) rotate(0 75.0 17.5)'>
+		<g transform='translate(0.0,14.5)'>
+			<text x='75.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Seleccion
+				</tspan>
+			</text>
+			<text x='75.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					de paquete
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(75,660) rotate(0 10 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer0" y="0" />
+		<use height="23" width="21" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.link.layer1" y="0" />
+		<g></g>
+	</g>
+	<g transform='translate(303.0,630.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g18' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g18)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					10*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Session
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					activa?
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer0"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="8" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer1"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="6" x="2" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer2"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="4" x="4" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer3"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer4"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer5"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer6"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer7"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer8"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer9"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="12" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer10"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="12" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer11"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="12" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer12"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer13"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer14"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer15"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer16"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer17"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer18"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="26,2 4,2 4,12 0,12 0,30 16.031,30 16,28 26.041,28.012 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer19"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M23.977,4.035h-18l0.034,21.881h17.986L23.977,4.035z M22,16H8v-2h14V16z M22,12H8v-2h14V12z M22,8H8V6h14V8  z"
+				fill="#FFFFFF" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="1.995"
+				width="1.995" x="12.008" y="28.005" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="1.995"
+				width="3.99" y="14.016" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer20"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="4,28.004 4,16 0,16.016 0,30 12,30 12,28 " />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer21"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer22"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer23"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer24"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="16" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer25"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="14" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.form.layer26"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" x="0" />
+		</symbol>
+	</defs>
+	<g transform="translate(302,764) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer26" y="92" />
+		<g transform='translate(0.0,25.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					17*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Selector de
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					dominio
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='42.400000000000006'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					/ ingreso a
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='57.2'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					cuenta
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(432,764) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer26" y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					18*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Ca
+				</tspan>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					ptura datos
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					de usuario
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.secure.layer0"
+			preserveAspectRatio="none" viewBox="0 0 20.77 30">
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M18.461,11.538h-1.153V6.923C17.308,3.101,14.209,0,10.385,0S3.461,3.101,3.461,6.923v4.615H2.308  C1.032,11.538,0,12.572,0,13.847v13.846C0,28.968,1.032,30,2.308,30h16.153c1.273,0,2.308-1.032,2.308-2.308V13.847  C20.769,12.572,19.734,11.538,18.461,11.538z"
+				fill="#FFFFFF" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="20.77" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.secure.layer1"
+			preserveAspectRatio="none" viewBox="0 0 20.77 30">
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M2.26,13.846v13.846h16.154V13.846H2.26z M12.756,25.498c0.08,0.365-0.157,0.663-0.532,0.661l-3.748-0.022  c-0.373-0.003-0.616-0.305-0.54-0.671l1.155-5.519c-0.745-0.424-1.25-1.207-1.25-2.114c0-1.356,1.117-2.454,2.495-2.454  s2.497,1.098,2.497,2.454c0,0.93-0.533,1.729-1.311,2.146L12.756,25.498z"
+				fill="#FFFFFF" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M10.386,2.307c-2.549,0-4.616,2.066-4.616,4.615v4.615h9.231V6.922C15.001,4.374,12.935,2.307,10.386,2.307z  "
+				fill="#FFFFFF" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="20.77" />
+		</symbol>
+	</defs>
+	<g transform="translate(1110,333) rotate(0 9 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer0" y="0" />
+		<use height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer1" y="0" />
+		<g></g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(592,195) rotate(0 9 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer0" y="0" />
+		<use height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer1" y="0" />
+		<g></g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(433,192) rotate(0 9 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer0" y="0" />
+		<use height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer1" y="0" />
+		<g></g>
+	</g>
+	<g transform='translate(595.0,764.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g24' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<rect width="100.0" height="100.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<rect width="100.0" height="100.0" stroke="#333333" stroke-width="2"
+			style="fill:url(#g24)" />
+		<line x1="10" y1="0" x2="10" y2="100.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g24)" />
+		<line x1="90.0" y1="0" x2="90.0" y2="100.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g24)" />
+		<g transform='translate(0.0,25.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					19*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Genera cuenta
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					en base
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='42.400000000000006'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					a datos de
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='57.2'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					usuario
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(798.0,764.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g25' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<rect width="100.0" height="100.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<rect width="100.0" height="100.0" stroke="#333333" stroke-width="2"
+			style="fill:url(#g25)" />
+		<line x1="10" y1="0" x2="10" y2="100.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g25)" />
+		<line x1="90.0" y1="0" x2="90.0" y2="100.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g25)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					20*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Correo de
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					bienbenida
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(593,486) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer26" y="92" />
+		<g transform='translate(0.0,32.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					13*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Selecciona
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					cuenta para el
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='42.400000000000006'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					paquete
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(433.0,486.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g27' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g27)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					12*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Mas de una
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					cuenta?
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(799.0,631.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g28' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g28)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					14*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					El paquete tiene
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					un costo?
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(798,486) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer0" y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer1" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer2" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer3" y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer4" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer5" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer6" y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer7" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer8" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer9" y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer10" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer11" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer12" y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer13" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer14" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer15" y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer16" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer17" y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer18" y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer19" y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer20" y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer21" y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer22" y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer23" y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer24" y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer25" y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.form.layer26" y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					15*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Datos de forma
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					de pago
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer0"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="8" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer1"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="6" x="2" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer2"
+			preserveAspectRatio="none" viewBox="0 0 8 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="4" x="4" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer3"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer4"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer5"
+			preserveAspectRatio="none" viewBox="0 0 8 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer6"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="8" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer7"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="6" x="2" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer8"
+			preserveAspectRatio="none" viewBox="0 0 8 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="4" x="4" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer9"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="18"
+				width="12" y="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer10"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="16"
+				width="12" y="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer11"
+			preserveAspectRatio="none" viewBox="0 0 12 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="14"
+				width="12" y="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer12"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer13"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer14"
+			preserveAspectRatio="none" viewBox="0 0 12 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer15"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer16"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer17"
+			preserveAspectRatio="none" viewBox="0 0 12 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer18"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<circle xmlns="http://www.w3.org/2000/svg" cx="10" cy="26"
+				fill="#FFFFFF" r="2" />
+			<circle xmlns="http://www.w3.org/2000/svg" cx="24.047" cy="26"
+				fill="#FFFFFF" r="2" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M26.001,21l-15.917-0.009l15.364-2.857c0.821-0.133,1.387-0.78,1.41-1.611l0.001-3.554  c-0.003-0.848,0.156-1.938-1.469-1.969h-15.39V9c-0.005-1.036-0.964-1.996-2-2h-2v0.018c-0.001,0-0.002,0-0.003,0  C5.447,7.018,5,7.466,5,8.019C5,8.57,5.447,9.018,5.998,9.018c0.031,0,0.057-0.015,0.087-0.018h1.916v2.017H8V12H0v2.076h8.001V21  c0.006,1.034,0.965,1.997,2,2H14v7h2v-7h10.001c0.656,0,1.187-0.329,1.187-0.984C27.188,21.359,26.657,21,26.001,21z"
+				fill="#FFFFFF" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer19"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="10,13 10,19 25.053,16.238 25.001,12.952 " />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M12,28l-1.998-0.001c-0.108-0.001-0.213-0.015-0.316-0.032c-0.061-0.01-0.134-0.029-0.204-0.047  c-0.074-0.021-0.15-0.04-0.221-0.068c-0.015-0.005-0.029-0.012-0.044-0.017c-0.587-0.255-1.028-0.782-1.162-1.423  c-0.003-0.018-0.005-0.036-0.007-0.054c-0.021-0.116-0.036-0.234-0.036-0.357V26H8.001v0C8.001,24,8,22,8,22v-8l-8,0v16h9.971h1.989  h2.011v-2H12z"
+				fill="#FFFFFF" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer20"
+			preserveAspectRatio="none" viewBox="0 0 30 30">
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M9.988,29.999C7.783,29.992,6,28.208,6,26.002C6,25.269,6,26,6,24v-8l-6.1-0.03V30h4h6  C10,30,12.193,29.992,9.988,29.999z"
+				fill="#FFFFFF" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer21"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="16" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer22"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="14" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer23"
+			preserveAspectRatio="none" viewBox="0 0 30 12">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="12"
+				width="12" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer24"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="8"
+				width="16" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer25"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="6"
+				width="14" x="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer26"
+			preserveAspectRatio="none" viewBox="0 0 30 8">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="4"
+				width="12" x="0" />
+		</symbol>
+	</defs>
+	<g transform="translate(945,486) rotate(0 50 50)">
+		<use filter="url(#colorFilter-666666)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer0"
+			y="-15" />
+		<use height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer1"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer2"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer3"
+			y="15" />
+		<use height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer4"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer5"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer6"
+			y="92" />
+		<use height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer7"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="8" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer8"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer9"
+			y="-15" />
+		<use height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer10"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="85" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer11"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer12"
+			y="15" />
+		<use height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer13"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer14"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer15"
+			y="92" />
+		<use height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer16"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="77" x="8"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer17"
+			y="92" />
+		<use filter="url(#colorFilter-666666)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer18"
+			y="-15" />
+		<use height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer19"
+			y="-15" />
+		<use filter="url(#colorFilter-6699CC)" height="30" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer20"
+			y="-15" />
+		<use filter="url(#colorFilter-666666)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer21"
+			y="15" />
+		<use height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer22"
+			y="15" />
+		<use filter="url(#colorFilter-6699CC)" height="77" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer23"
+			y="15" />
+		<use filter="url(#colorFilter-666666)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer24"
+			y="92" />
+		<use height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer25"
+			y="92" />
+		<use filter="url(#colorFilter-6699CC)" height="8" width="30" x="85"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.shoppingCart.layer26"
+			y="92" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					16*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Confirmacion
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					de pago
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.email.layer0"
+			preserveAspectRatio="none" viewBox="0 0 30 22">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF" height="22"
+				width="30" y="0" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.email.layer1"
+			preserveAspectRatio="none" viewBox="0 0 30 22">
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M16.182,12.284c-0.62,0.49-1.682,0.612-2.363,0C12.989,11.557,2,2,2,2h0v18h26V2h-0.001  C27.999,2,16.802,11.794,16.182,12.284z"
+				fill="#FFFFFF" />
+			<polygon xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				points="5.521,2.047 24.625,2.11 15.044,9.966 " />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="22" width="30" />
+		</symbol>
+	</defs>
+	<g transform="translate(796,765) rotate(0 12 8)">
+		<use filter="url(#colorFilter-666666)" height="17" width="24" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.email.layer0" y="0" />
+		<use height="17" width="24" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.email.layer1" y="0" />
+		<g></g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(798,486) rotate(0 9 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer0" y="0" />
+		<use height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer1" y="0" />
+		<g></g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+	</defs>
+	<g transform="translate(948,487) rotate(0 9 11)">
+		<use filter="url(#colorFilter-666666)" height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer0" y="0" />
+		<use height="23" width="18" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.secure.layer1" y="0" />
+		<g></g>
+	</g>
+	<defs>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-6699CC">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.6 0 0 0 0 0 0.8 0 0 0 0 0 1 0" />
+		</filter>
+		<filter filterUnits="objectBoundingBox" id="colorFilter-666666">
+			<feColorMatrix in="SourceGraphic" type="matrix"
+				values="0.4 0 0 0 0 0 0.4 0 0 0 0 0 0.4 0 0 0 0 0 1 0" />
+		</filter>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.database.layer0"
+			preserveAspectRatio="none" viewBox="0 0 26 30">
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="26" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M26,3.5C26,1.567,20.181,0,12.998,0C5.82,0,0,1.567,0,3.5C0,3.52,0.009,3.537,0.01,3.554H0v22.979h0.003  c0,0.004-0.002,0.006-0.002,0.01C0,28.45,5.82,30,12.998,30C20.181,30,26,28.45,26,26.542c0-0.004-0.004-0.006-0.004-0.01H26V3.554  h-0.012C25.989,3.537,26,3.52,26,3.5z"
+				fill="#FFFFFF" />
+		</symbol>
+		<symbol id="com.gliffy.symbols.sitemap.skins.basic.database.layer1"
+			preserveAspectRatio="none" viewBox="0 0 26 30">
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M23.891,4.116c0,1.268-4.853,2.297-10.832,2.297c-5.983,0-10.833-1.029-10.833-2.297  c0-1.269,4.85-2.298,10.833-2.298C19.038,1.817,23.891,2.847,23.891,4.116z"
+				fill="#FFFFFF" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M13.019,8.649c-5.982,0-10.833-1.029-10.833-2.298c0,0.719,0,4.553,0,4.596c0,1.27,4.851,2.298,10.833,2.298  s10.834-1.029,10.834-2.298c0-0.042,0-3.744,0-4.596C23.853,7.621,19.001,8.649,13.019,8.649z"
+				fill="#FFFFFF" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M13.019,15.76c-5.982,0-10.833-1.03-10.833-2.298c0,0.72,0,4.553,0,4.595c0,1.27,4.851,2.299,10.833,2.299  s10.834-1.029,10.834-2.299c0-0.041,0-3.743,0-4.595C23.853,14.73,19.001,15.76,13.019,15.76z"
+				fill="#FFFFFF" />
+			<path xmlns="http://www.w3.org/2000/svg"
+				d="M13.019,22.871c-5.982,0-10.833-1.029-10.833-2.298c0,0.72,0,4.552,0,4.596  c0,1.269,4.851,2.298,10.833,2.298s10.834-1.029,10.834-2.298c0-0.042,0-3.745,0-4.596C23.853,21.841,19.001,22.871,13.019,22.871z"
+				fill="#FFFFFF" />
+			<rect xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF"
+				fill-opacity="0" height="30" width="26" />
+		</symbol>
+	</defs>
+	<g transform="translate(594,764) rotate(0 11 11)">
+		<use filter="url(#colorFilter-666666)" height="22" width="22" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.database.layer0"
+			y="0" />
+		<use height="22" width="22" x="0"
+			xlink:href="#com.gliffy.symbols.sitemap.skins.basic.database.layer1"
+			y="0" />
+		<g></g>
+	</g>
+	<g transform='translate(360.75,13.0) rotate(0 31.25 50.0)'>
+		<circle cx='31.043046357615896' cy='9.960159362549799' r='10.347682119205299'
+			fill='#FFFFFF' stroke="#000000" stroke-width="1.0" />
+		<line x1='31.043046357615896' y1='19.920318725099598' x2='31.043046357615896'
+			y2='59.7609561752988' stroke="#000000" stroke-width="1.0" fill="#ffffff" />
+		<line x1='31.043046357615896' y1='59.7609561752988' x2='20.695364238410598'
+			y2='99.601593625498' stroke="#000000" stroke-width="1.0" fill="#ffffff" />
+		<line x1='31.043046357615896' y1='59.7609561752988' x2='41.390728476821195'
+			y2='99.601593625498' stroke="#000000" stroke-width="1.0" fill="#ffffff" />
+		<line x1='31.043046357615896' y1='59.7609561752988' x2='41.390728476821195'
+			y2='99.601593625498' stroke="#000000" stroke-width="1.0" fill="#ffffff" />
+		<line x1='0.0' y1='29.8804780876494' x2='62.08609271523179' y2='29.8804780876494'
+			stroke="#000000" stroke-width="1.0" fill="#ffffff" />
+		<g transform='translate(0.0,117.0)'>
+			<text x='31.25' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Visitante / Cliente / Usuario
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(434.0,630.0) rotate(0 50.0 50.0)'>
+		<defs>
+			<linearGradient id='g36' x1='50%' y1='-25%' x2='50%'
+				y2='100%'>
+				<stop stop-color='white' offset='0%' />
+				<stop stop-color='#d1d1d1' offset='100%' />
+			</linearGradient>
+		</defs>
+		<g transform='translate(4.0,4.0)'>
+			<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#A8A8A8"
+				stroke-width="0" stroke-opacity=".6" fill-opacity=".6" fill="#A8A8A8" />
+		</g>
+		<polygon points="50.0,0 100.0,50.0 50.0,100.0 0,50.0" stroke="#333333"
+			stroke-width="2" style="fill:url(#g36)" />
+		<g transform='translate(0.0,40.0)'>
+			<text x='50.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					11*
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='12.8'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Adnimistrador
+				</tspan>
+			</text>
+			<text x='50.0' style='text-anchor: middle' y='27.6'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					de cuenta?
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(204.5,285.0)'>
+		<path
+			d='M0.0,0.0 L39.75,0.0 Q49.75,0.0 49.75,-10.0 L49.75,-31.0 Q49.75,-41.0 59.75,-41.0 L96.5,-41.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(99.5,-41.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(193.0,587.0)'>
+		<path
+			d='M0.0,0.0 L0.0,35.0 Q0.0,45.0 -10.0,45.0 L-97.0,45.0 Q-107.0,45.0 -107.0,55.0 L-107.0,70.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(-107.0,73.0) rotate(270.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(86.0,682.5)'>
+		<path
+			d='M0.0,0.0 L0.0,14.0 Q0.0,24.0 10.0,24.0 L98.5,24.0 Q108.5,24.0 108.5,14.0 L108.5,7.5 Q108.5,-2.5 118.5,-2.5 L214.0,-2.5 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(217.0,-2.5) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(354.0,294.0)'>
+		<path d='M0.0,0.0 L0.0,78.0 Q0.0,88.0 10.0,88.0 L76.0,88.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(79.0,88.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(483.0,332.0)'>
+		<path
+			d='M0.0,0.0 L0.0,-9.75 Q0.0,-19.5 0.0,-19.5 L0.0,-19.5 Q0.0,-19.5 0.0,-19.5 L0.0,-36.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(0.0,-39.0) rotate(450.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(533.0,382.0)'>
+		<path
+			d='M0.0,0.0 L20.5,0.0 Q30.5,0.0 30.5,0.0 L30.5,0.0 Q30.5,0.0 30.5,0.0 L58.0,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(61.0,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(644.0,333.0)'>
+		<path
+			d='M0.0,0.0 L0.0,-9.75 Q0.0,-19.5 0.0,-19.5 L0.0,-19.5 Q0.0,-19.5 0.0,-19.5 L0.0,-36.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(0.0,-39.0) rotate(450.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(533.0,243.0)'>
+		<path
+			d='M0.0,0.0 L20.5,0.0 Q30.5,0.0 30.5,10.0 L30.5,130.0 Q30.5,140.0 40.5,140.0 L58.0,140.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(61.0,140.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(693.0,244.0)'>
+		<path d='M0.0,0.0 L34.0,0.0 Q44.0,0.0 44.0,10.0 L44.0,124.5 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(44.0,127.5) rotate(270.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(737.0,394.5)'>
+		<path
+			d='M0.0,0.0 L0.0,14.0 Q0.0,24.0 10.0,24.0 L95.5,24.0 Q105.5,24.0 105.5,14.0 L105.5,-1.5 Q105.5,-11.5 115.5,-11.5 L208.0,-11.5 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(211.0,-11.5) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(998.0,333.0)'>
+		<path d='M0.0,0.0 L0.0,-102.0 Q0.0,-112.0 10.0,-112.0 L17.0,-112.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(20.0,-112.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(1048.0,383.0)'>
+		<path
+			d='M0.0,0.0 L21.5,0.0 Q31.5,0.0 31.5,0.0 L31.5,0.0 Q31.5,0.0 31.5,0.0 L60.0,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(63.0,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(403.0,680.0)'>
+		<path
+			d='M0.0,0.0 L7.75,0.0 Q15.5,0.0 15.5,0.0 L15.5,0.0 Q15.5,0.0 15.5,0.0 L28.0,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(31.0,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(353.0,730.0)'>
+		<path
+			d='M0.0,0.0 L0.0,8.5 Q0.0,17.0 0.0,17.0 L0.0,17.0 Q0.0,17.0 0.0,17.0 L0.0,31.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(0.0,34.0) rotate(270.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(433.0,814.0)'>
+		<path
+			d='M-3.0,0.0 L-7.5,0.0 Q-15.0,0.0 -15.0,0.0 L-15.0,0.0 Q-15.0,0.0 -15.0,0.0 L-30.0,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(0.0,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(484.0,630.0)'>
+		<path
+			d='M0.0,0.0 L0.0,-12.0 Q0.0,-22.0 0.0,-22.0 L0.0,-22.0 Q0.0,-22.0 0.0,-22.0 L0.0,-41.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(0.0,-44.0) rotate(450.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(483.0,486.0)'>
+		<path
+			d='M0.0,0.0 L0.0,-14.0 Q0.0,-24.0 10.0,-24.0 L151.0,-24.0 Q161.0,-24.0 161.0,-14.0 L161.0,-3.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(161.0,0.0) rotate(270.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(644.0,586.0)'>
+		<path d='M0.0,0.0 L0.0,85.0 Q0.0,95.0 10.0,95.0 L152.0,95.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(155.0,95.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(645.0,764.0)'>
+		<path d='M0.0,0.0 L0.0,-73.0 Q0.0,-83.0 10.0,-83.0 L151.0,-83.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(154.0,-83.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(534.0,680.0)'>
+		<path
+			d='M0.0,0.0 L20.5,0.0 Q30.5,0.0 30.5,10.0 L30.5,124.0 Q30.5,134.0 40.5,134.0 L58.0,134.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(61.0,134.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(695.0,814.0)'>
+		<path
+			d='M0.0,0.0 L41.5,0.0 Q51.5,0.0 51.5,0.0 L51.5,0.0 Q51.5,0.0 51.5,0.0 L100.0,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(103.0,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(849.0,631.0)'>
+		<path
+			d='M0.0,0.0 L0.0,-12.5 Q0.0,-22.5 0.0,-22.5 L0.0,-22.5 Q0.0,-22.5 0.0,-22.5 L0.0,-42.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(0.0,-45.0) rotate(450.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(899.0,536.0)'>
+		<path
+			d='M0.0,0.0 L13.5,0.0 Q23.5,0.0 23.5,0.0 L23.5,0.0 Q23.5,0.0 23.5,0.0 L44.0,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(47.0,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(899.0,681.0)'>
+		<path d='M0.0,0.0 L252.0,0.0 Q262.0,0.0 262.0,-10.0 L262.0,-247.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(262.0,-250.0) rotate(450.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(1046.0,536.0)'>
+		<path d='M0.0,0.0 L105.0,0.0 Q115.0,0.0 115.0,-10.0 L115.0,-102.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(115.0,-105.0) rotate(450.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(533.0,814.0)'>
+		<path
+			d='M0.0,0.0 L21.0,0.0 Q31.0,0.0 31.0,0.0 L31.0,0.0 Q31.0,0.0 31.0,0.0 L59.0,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(62.0,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(485.0,313.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(1048.0,364.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(2845.0,495.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(647.0,313.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(849.0,614.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(485.0,614.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(484.0,468.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(405.0,662.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					Si
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(533.0,536.0)'>
+		<path
+			d='M0.0,0.0 L33.0,0.0 Q43.0,0.0 43.0,10.0 L43.0,135.0 Q43.0,145.0 53.0,145.0 L263.0,145.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(266.0,145.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(537.0,364.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					No
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(693.0,364.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					No
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(1000.0,313.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					No
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(903.0,662.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					No
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(537.0,662.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					No
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(356.0,732.5) rotate(0 10.0 7.5)'>
+		<g transform='translate(0.0,12.5)'>
+			<text x='10.0' style='text-anchor: middle' y='-2.0'>
+				<tspan xml:space='preserve' font-size='12' font-family='Arial'
+					fill='#000000'>
+					No
+				</tspan>
+			</text>
+		</g>
+	</g>
+	<g transform='translate(694.0,383.0)'>
+		<path
+			d='M0.0,0.0 L8.125,0.0 Q16.25,0.0 16.25,0.0 L16.25,0.0 Q16.25,0.0 16.25,0.0 L29.5,0.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(32.5,0.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(1118.0,221.0)'>
+		<path d='M0.0,0.0 L33.0,0.0 Q43.0,0.0 43.0,10.0 L43.0,107.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(43.0,110.0) rotate(270.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(360.75,63.0)'>
+		<path
+			d='M0.0,0.0 L-323.75,0.0 Q-333.75,0.0 -333.75,10.0 L-333.75,173.0 Q-333.75,183.0 -323.75,183.0 L-260.75,183.0 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(-257.75,183.0) rotate(180.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+	<g transform='translate(423.25,63.0)'>
+		<path d='M0.0,0.0 L303.75,0.0 Q313.75,0.0 313.75,10.0 L313.75,305.5 '
+			stroke-dasharray='23, 0' fill='none' stroke='#000000' stroke-width='2' />
+		<g transform='translate(313.75,308.5) rotate(270.0)'>
+			<polygon points='3.0,0 9.0,-3.0 9.0,3.0' fill='#000000'
+				stroke='#000000' stroke-width='2.0' />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,115 @@
+<h2>Estado de cuenta &gt;&gt; Factura</h2>
+<?php
+    $account = (object)$_SESSION['Saas']['accountInfo']['account'];
+    $billDate = Mekayotl::iso8601ToTime($return->createdOn);
+    $bilDateText = Mekayotl_tools_utils_Conversion::mesEsp(date('n', $billDate)) . ' ' . date('Y', $billDate);
+?>
+<div id="billConcepts" class="clearfix">
+    <!--img src="default/style/nort/img/logo_pequeno_DDD.png"-->
+    <dl>
+        <dt>N&uacute;mero de cuenta</dt>
+        <dd><?php print $account->account; ?>&nbsp;</dd>
+        <dt>Fecha</dt>
+        <dd>Mes de <?php
+            print $bilDateText;
+    ?>&nbsp;</dd>
+    </dl>
+<table align="center">
+    <caption><dl class="info">
+        <dt>Datos de facturaci&oacute;n</dt>
+        <dd><?php print $account->firm; ?><br />
+        <?php print $account->street; ?>
+        <?php print $account->outside;
+        if($account->inside != ''){
+        ?> interior
+        <?php print $account->inside;
+            }
+ ?>
+        <br />
+        <?php print $account->zip;
+        if($account->inside != ''){
+        ?>, colonia
+        <?php print $account->colony;
+            }
+ ?>
+        <br />
+        <?php print $account->city;
+        if($account->inside != ''){
+        ?>,
+        <?php print $account->state;
+            }
+            if($account->inside != ''){
+        ?>,
+        <?php print $account->country;
+            }
+ ?>
+        <br />
+        <?php print $account->taxKey; ?><br />&nbsp;</dd>
+    </dl></caption>
+    <thead>
+        <tr>
+            <th>Cantidad</th>
+            <th>Descripci&oacute;n</th>
+            <th>Precio unitario</th>
+            <th>Importe</th>
+        </tr>
+    </thead>
+    <tbody>
+        <?php
+            foreach ($return->concepts as $concept) {
+        ?>
+        <tr>
+            <td><?php print $concept->quantity; ?></td>
+            <th><?php print strip_tags($concept->description); ?></th>
+            <td class="money"><?php print $return->currency . '$ ' . number_format($concept->price, 2, '.', ','); ?></td>
+            <td class="money"><?php print $return->currency . '$ ' . number_format($concept->price * $concept->quantity, 2, '.', ','); ?></td>
+        </tr>
+        <?php
+            }
+        ?>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td class="noborder" colspan="2" rowspan="3">&nbsp;</td>
+            <th>Subtotal</th>
+            <td class="money"><?php print $return->currency . '$ ' . number_format($return->subtotal, 2, '.', ','); ?></td>
+        </tr>
+        <tr>
+            <th>Descuento</th>
+            <td class="money"><?php print $return->currency; ?>$ -0.00</td>
+        </tr>
+        <tr class="noborder">
+            <th>Impuestos (<?php print $return->taxes * 100; ?>%)</th>
+            <td class="money"><?php print $return->currency . '$ +' . number_format($return->taxes * $return->subtotal, 2, '.', ','); ?></td>
+        </tr>
+        <tr class="total">
+            <td colspan="2">&nbsp;</td>
+            <th>Total</th>
+            <td class="money"><?php print $return->currency . '$ ';
+                $totalPrint = max($return->total, ($return->taxes * $return->subtotal) + $return->subtotal);
+                print number_format($totalPrint, 2, '.', ',');
+ ?></td>
+        </tr>
+    </tfoot>
+</table>
+</div>
+<?php
+if($return->status == 'paid') {
+?>
+<p>
+    Pagada el ## de #### de #### via ###.<br />
+    Descargar Factura Electrónica: <a href="#">PDF</a> | <a href="#">XML</a>
+</p>
+<?php }else{ ?>
+<p>
+    Pagar antes del <?php
+        print date('j', strtotime('last day of month', $billDate));
+    ?> <?php print $bilDateText; ?><br />
+    Pagar con:
+    <ul class="payments">
+        <li><a href="#" title="proximamente">PayPal</a></li>
+        <li><a href="#" title="proximamente">Mercado pago</a></li>
+        <li><a href="#" title="proximamente">Tarjeta de Cr&eacute;dito</a></li>
+    </ul>
+</p>
+<?php } ?>

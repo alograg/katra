@@ -1,0 +1,80 @@
+<?php
+$app = App_Saas::singleton();
+$this->setHeadStyles(array( array(
+        '@media' => "all",
+        '@href' => 'http://www.nortcloud.com/inc/style.css'
+    )));
+?>
+<header id="head">
+    <div class="sombraLinearUp"></div>
+    <a href="http://www.nortcloud.com/" class="logoNort"> <img src="/img/logo/nortHeader.png"> </a>
+    <div class="pullRight">
+        <menu id="menuActions" class="clearfix">
+            <a class="likeButton gayButton" href="http://www.nortcloud.com/dashboard/"> Acceder </a>
+            <a class="likeButton geenButton" href="http://www.nortcloud.com/registration/join.html"> Registrar </a>
+        </menu>
+        <div class="enlacesSocial">
+            <a href="https://www.facebook.com/pages/Nortcloud/387776757925505?fref=ts" title="Facebook: /Nortcloud "><img src="/img/icon/face.png" /></a>
+            <a href="https://twitter.com/Nortcloud" title="Twitter: @Nortcloud"><img src="/img/icon/twit.png" /></a>
+            <!--
+            <a href="#"><img src="img/link-icon.png" /></a>
+            <a href="#"><img src="img/log-icon.png" /></a>
+            -->
+        </div>
+    </div>
+</header>
+<div class="sombraLinearDown likeBody"></div>
+<nav class="principal clearfix likeBody">
+    <li>
+        <a href="http://www.nortcloud.com/">Nort</a>
+    </li>
+    <li>
+        <a href="http://www.nortcloud.com/#productos">Productos</a>
+    </li>
+    <!--li>
+    <a href="http://www.nortcloud.com/contacto.html">Contacto</a>
+    </li-->
+    <li>
+        <a href="http://ayuda.nortcloud.com/">Ayuda</a>
+    </li>
+</nav>
+<div class="sombraLinearUp likeBody"></div>
+<section id="secLogOut" class="likeBody content clearfix">
+<?php
+if (!$_GET['forget']) {
+?>
+    <p>
+        <?php print $user; ?>
+        a salido de la cuenta.
+    </p>
+<?php
+}
+?>
+    <p>&iexcl;Gracias por usar Nort!</p>
+    <a href="login.html">Para ingresar de nuevo da clic aqu&iacute;</a>
+<?php
+if (Mekayotl_tools_Security::getAppCookie('token') && !isset($_GET['forget'])) {
+?>
+    <br />
+    <a href="logout/forget.html">Para olvidar la contrase&ntilde;a  da clic aqu&iacute;</a>
+<?php
+}
+?>
+</section>
+<script type="text/javascript">
+    {
+        window.history.forward(1);
+    }
+</script>
+<footer class="clearfix">
+    <p class="links">
+        <a href="http://www.nortcloud.com/">Nort</a> |
+        <a href="http://www.nortcloud.com/productos.html">Productos</a> |
+        <a href="http://www.nortcloud.com/contacto.html">Contacto</a> |
+        <a href="http://ayuda.nortcloud.com/">Ayuda</a>
+    </p>
+    <p>
+        <img src="/img/logo/nortFooter.png" alt="NORT" />&reg; por <a href="http://www.aquainteractive.com.mx">Aqua Interactive</a>&copy;
+        Marca Registrada, Derechos Reservados <?php echo date('Y'); ?>
+    </p>
+</footer>
